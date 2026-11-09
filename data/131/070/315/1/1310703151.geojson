@@ -42,7 +42,7 @@
         "gn:id":1952623
     },
     "wof:country":"KP",
-    "wof:geomhash":"0b59b74e325d9a0fa0c363cb951f664d",
+    "wof:geomhash":"67201fe895d301449157984bffe82093",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,5 +68,5 @@
     127.36388999999998,
     39.50028
 ],
-  "geometry": {"coordinates":[127.36388999999998,39.50028],"type":"Point"}
+  "geometry": {"coordinates":[127.36389,39.50028],"type":"Point"}
 }

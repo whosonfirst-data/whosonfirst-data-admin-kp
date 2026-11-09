@@ -52,7 +52,7 @@
     },
     "wof:country":"KP",
     "wof:created":1459009672,
-    "wof:geomhash":"bf3231fb86410e0aa83de01e98cb902f",
+    "wof:geomhash":"1a7f58acc94f8814d6d2a1fda2cddd82",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     125.8,
     39.0
 ],
-  "geometry": {"coordinates":[125.8,39.0],"type":"Point"}
+  "geometry": {"coordinates":[125.8,39],"type":"Point"}
 }

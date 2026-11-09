@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"KP",
     "wof:created":1499130729,
-    "wof:geomhash":"9cdb531890f74030b985e616ece57333",
+    "wof:geomhash":"93ac4ea9a8869832e97c4607e06fb945",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     126.3866418041041,
     38.33668967595111
 ],
-  "geometry": {"coordinates":[126.3866418041041,38.33668967595111],"type":"Point"}
+  "geometry": {"coordinates":[126.386642,38.33669],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"Kyongwon"
     },
     "wof:country":"KP",
-    "wof:geomhash":"1a8234d55b1b04d6c2cf2784d3a710ff",
+    "wof:geomhash":"6fb1a5a46660c9663fe1d6b892a6bf15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     130.20193999999998,
     42.81111
 ],
-  "geometry": {"coordinates":[130.20193999999998,42.81111],"type":"Point"}
+  "geometry": {"coordinates":[130.20194,42.81111],"type":"Point"}
 }

@@ -150,7 +150,7 @@
         "wk:page":"Pyongsong"
     },
     "wof:country":"KP",
-    "wof:geomhash":"0dd92e70fe32b899efc36ca11f13a738",
+    "wof:geomhash":"b048d50d455dc8502fd167a6e57b69d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -178,5 +178,5 @@
     125.87194,
     39.24639000000001
 ],
-  "geometry": {"coordinates":[125.87194,39.24639000000001],"type":"Point"}
+  "geometry": {"coordinates":[125.87194,39.24639],"type":"Point"}
 }

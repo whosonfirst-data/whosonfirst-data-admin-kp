@@ -71,7 +71,7 @@
         "wk:page":"Namyang_Workers%27_District"
     },
     "wof:country":"KP",
-    "wof:geomhash":"6042d23cff412e87002182e75cce3bac",
+    "wof:geomhash":"8c0e46d0bd3b9b8ed56bded7c3bfdd85",
     "wof:hierarchy":[
         {
             "country_id":85632639,
@@ -94,5 +94,5 @@
     129.85721999999998,
     42.95389
 ],
-  "geometry": {"coordinates":[129.85721999999998,42.95389],"type":"Point"}
+  "geometry": {"coordinates":[129.85722,42.95389],"type":"Point"}
 }
