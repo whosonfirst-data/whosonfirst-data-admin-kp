@@ -1,0 +1,74 @@
+{
+  "id": 9895033108,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.49177,41.28592,127.49177,41.28592",
+    "geom:latitude":41.28592,
+    "geom:longitude":127.49177,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12120959: name \"Ch\u014fnji-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12120959"
+        },
+        {
+            "citation":"GeoNames populated place 12120959: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12120959"
+        },
+        {
+            "citation":"GeoNames populated place 12120959: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12120959"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746961 (Kim Jong Suk), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108746961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12120959
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"112f68a5a9c685587080f38f1f3b892f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746961,
+            "locality_id":9895033108,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895033108,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch\u014fnji-dong",
+    "wof:parent_id":1108746961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.49177,
+    41.28592,
+    127.49177,
+    41.28592
+],
+  "geometry": {"coordinates":[127.49177,41.28592],"type":"Point"}
+}

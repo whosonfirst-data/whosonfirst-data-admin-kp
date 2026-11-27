@@ -1,0 +1,74 @@
+{
+  "id": 9895034266,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17287,40.5654,125.17287,40.5654",
+    "geom:latitude":40.5654,
+    "geom:longitude":125.17287,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13288242: name \"I-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13288242"
+        },
+        {
+            "citation":"GeoNames populated place 13288242: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13288242"
+        },
+        {
+            "citation":"GeoNames populated place 13288242: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13288242"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747945 (Pyokdong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13288242
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7b3c11efd517e1cf98f9070419af23e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747945,
+            "locality_id":9895034266,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895034266,
+    "wof:lastmodified":1795734963,
+    "wof:name":"I-dong",
+    "wof:parent_id":1108747945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17287,
+    40.5654,
+    125.17287,
+    40.5654
+],
+  "geometry": {"coordinates":[125.17287,40.5654],"type":"Point"}
+}

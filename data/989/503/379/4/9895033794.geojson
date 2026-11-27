@@ -1,0 +1,74 @@
+{
+  "id": 9895033794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.8267,40.25778,124.8267,40.25778",
+    "geom:latitude":40.25778,
+    "geom:longitude":124.8267,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12787988: name \"\u014ejung-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12787988"
+        },
+        {
+            "citation":"GeoNames populated place 12787988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12787988"
+        },
+        {
+            "citation":"GeoNames populated place 12787988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12787988"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747105 (Sakju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12787988
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f53fc66e5e6bb1d08625d885dd6d278d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747105,
+            "locality_id":9895033794,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033794,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u014ejung-dong",
+    "wof:parent_id":1108747105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.8267,
+    40.25778,
+    124.8267,
+    40.25778
+],
+  "geometry": {"coordinates":[124.8267,40.25778],"type":"Point"}
+}

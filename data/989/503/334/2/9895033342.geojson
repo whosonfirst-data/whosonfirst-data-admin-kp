@@ -1,0 +1,74 @@
+{
+  "id": 9895033342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.26371,38.38188,125.26371,38.38188",
+    "geom:latitude":38.38188,
+    "geom:longitude":125.26371,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489869: name \"S\u014flmun-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489869"
+        },
+        {
+            "citation":"GeoNames populated place 12489869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489869"
+        },
+        {
+            "citation":"GeoNames populated place 12489869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489869"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747109 (Samchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489869
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ebe05e15190272eb561e4efaec261f5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747109,
+            "locality_id":9895033342,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033342,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014flmun-dong",
+    "wof:parent_id":1108747109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.26371,
+    38.38188,
+    125.26371,
+    38.38188
+],
+  "geometry": {"coordinates":[125.26371,38.38188],"type":"Point"}
+}

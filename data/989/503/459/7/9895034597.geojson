@@ -1,0 +1,74 @@
+{
+  "id": 9895034597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.72051,38.46289,127.72051,38.46289",
+    "geom:latitude":38.46289,
+    "geom:longitude":127.72051,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13522953: name \"Yug\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13522953"
+        },
+        {
+            "citation":"GeoNames populated place 13522953: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13522953"
+        },
+        {
+            "citation":"GeoNames populated place 13522953: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13522953"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746849 (Changdo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13522953
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"744281334a404d10c49c89f0bc4cfbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746849,
+            "locality_id":9895034597,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034597,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yug\u014fl-li",
+    "wof:parent_id":1108746849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.72051,
+    38.46289,
+    127.72051,
+    38.46289
+],
+  "geometry": {"coordinates":[127.72051,38.46289],"type":"Point"}
+}

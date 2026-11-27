@@ -1,0 +1,74 @@
+{
+  "id": 9895036032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.1392,38.35204,126.1392,38.35204",
+    "geom:latitude":38.35204,
+    "geom:longitude":126.1392,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13655850: name \"Tojang-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13655850"
+        },
+        {
+            "citation":"GeoNames populated place 13655850: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13655850"
+        },
+        {
+            "citation":"GeoNames populated place 13655850: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13655850"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747093 (Rinsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13655850
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"94837d0d1284a448a54adb7d5a5d472e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":9895036032,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895036032,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tojang-gol",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.1392,
+    38.35204,
+    126.1392,
+    38.35204
+],
+  "geometry": {"coordinates":[126.1392,38.35204],"type":"Point"}
+}

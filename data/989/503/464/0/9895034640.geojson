@@ -1,0 +1,74 @@
+{
+  "id": 9895034640,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.66063,38.86121,127.66063,38.86121",
+    "geom:latitude":38.86121,
+    "geom:longitude":127.66063,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13531808: name \"Yuhwa-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13531808"
+        },
+        {
+            "citation":"GeoNames populated place 13531808: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13531808"
+        },
+        {
+            "citation":"GeoNames populated place 13531808: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13531808"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746887 (Hoeyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13531808
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e4ad2f68a0f98abc137bfc1d26e988bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746887,
+            "locality_id":9895034640,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034640,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yuhwa-dong",
+    "wof:parent_id":1108746887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.66063,
+    38.86121,
+    127.66063,
+    38.86121
+],
+  "geometry": {"coordinates":[127.66063,38.86121],"type":"Point"}
+}

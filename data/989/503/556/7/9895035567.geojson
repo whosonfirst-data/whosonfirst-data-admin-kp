@@ -1,0 +1,74 @@
+{
+  "id": 9895035567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07144,38.72533,126.07144,38.72533",
+    "geom:latitude":38.72533,
+    "geom:longitude":126.07144,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607430: name \"Chulbawi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607430"
+        },
+        {
+            "citation":"GeoNames populated place 13607430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607430"
+        },
+        {
+            "citation":"GeoNames populated place 13607430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607430"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747115 (Sangwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607430
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c87c52e9862b790420118b870c878a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747115,
+            "locality_id":9895035567,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035567,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chulbawi",
+    "wof:parent_id":1108747115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07144,
+    38.72533,
+    126.07144,
+    38.72533
+],
+  "geometry": {"coordinates":[126.07144,38.72533],"type":"Point"}
+}

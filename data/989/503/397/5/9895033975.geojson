@@ -1,0 +1,74 @@
+{
+  "id": 9895033975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.6001,40.8633,128.6001,40.8633",
+    "geom:latitude":40.8633,
+    "geom:longitude":128.6001,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906357: name \"P'og\u014f-ri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906357"
+        },
+        {
+            "citation":"GeoNames populated place 12906357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906357"
+        },
+        {
+            "citation":"GeoNames populated place 12906357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906357"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746881 (Hochon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906357
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"61e6a74b649882dbf98318976d390396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":9895033975,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033975,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P'og\u014f-ri",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.6001,
+    40.8633,
+    128.6001,
+    40.8633
+],
+  "geometry": {"coordinates":[128.6001,40.8633],"type":"Point"}
+}

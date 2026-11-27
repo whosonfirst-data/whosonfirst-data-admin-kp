@@ -1,0 +1,74 @@
+{
+  "id": 9895033255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.32704,41.37063,128.32704,41.37063",
+    "geom:latitude":41.37063,
+    "geom:longitude":128.32704,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12158895: name \"Pongs\u014f\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12158895"
+        },
+        {
+            "citation":"GeoNames populated place 12158895: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12158895"
+        },
+        {
+            "citation":"GeoNames populated place 12158895: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12158895"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746903 (Hyesan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108746903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12158895
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"91536d6e230eff8fb37ab7af8aac14bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746903,
+            "locality_id":9895033255,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895033255,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pongs\u014f",
+    "wof:parent_id":1108746903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.32704,
+    41.37063,
+    128.32704,
+    41.37063
+],
+  "geometry": {"coordinates":[128.32704,41.37063],"type":"Point"}
+}

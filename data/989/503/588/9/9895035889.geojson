@@ -1,0 +1,74 @@
+{
+  "id": 9895035889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.53081,39.87773,124.53081,39.87773",
+    "geom:latitude":39.87773,
+    "geom:longitude":124.53081,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13639231: name \"Songh\u016dng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13639231"
+        },
+        {
+            "citation":"GeoNames populated place 13639231: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13639231"
+        },
+        {
+            "citation":"GeoNames populated place 13639231: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13639231"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748105 (Yomju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13639231
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f821a0041cb729aeda2c0a31d4af6cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":9895035889,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035889,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Songh\u016dng",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.53081,
+    39.87773,
+    124.53081,
+    39.87773
+],
+  "geometry": {"coordinates":[124.53081,39.87773],"type":"Point"}
+}

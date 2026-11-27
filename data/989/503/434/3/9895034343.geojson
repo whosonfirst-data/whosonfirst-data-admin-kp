@@ -1,0 +1,74 @@
+{
+  "id": 9895034343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.05437,40.77012,126.05437,40.77012",
+    "geom:latitude":40.77012,
+    "geom:longitude":126.05437,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13294890: name \"S\u014ft'\u016dre\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13294890"
+        },
+        {
+            "citation":"GeoNames populated place 13294890: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13294890"
+        },
+        {
+            "citation":"GeoNames populated place 13294890: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13294890"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747227 (Wiwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13294890
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2139ba80e7df66a2becc1e6b49ef1b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":9895034343,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034343,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014ft'\u016dre",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.05437,
+    40.77012,
+    126.05437,
+    40.77012
+],
+  "geometry": {"coordinates":[126.05437,40.77012],"type":"Point"}
+}

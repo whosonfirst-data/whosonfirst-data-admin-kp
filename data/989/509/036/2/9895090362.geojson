@@ -1,0 +1,72 @@
+{
+  "id": 9895090362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.55483,39.77202,124.55483,39.77202",
+    "geom:latitude":39.77202,
+    "geom:longitude":124.55483,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13623741: name \"Pokchikkes\u014fm\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13623741"
+        },
+        {
+            "citation":"GeoNames populated place 13623741: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13623741"
+        },
+        {
+            "citation":"GeoNames populated place 13623741: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13623741"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676633 (North P'y\u014fngan), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13623741
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d5e254240f5a1b3d2ce96d8ff0f82a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "locality_id":9895090362,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895090362,
+    "wof:lastmodified":1795746181,
+    "wof:name":"Pokchikkes\u014fm",
+    "wof:parent_id":85676633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.55483,
+    39.77202,
+    124.55483,
+    39.77202
+],
+  "geometry": {"coordinates":[124.55483,39.77202],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032514,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.76793,40.22118,126.76793,40.22118",
+    "geom:latitude":40.22118,
+    "geom:longitude":126.76793,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6281337: name \"Soryonggol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6281337"
+        },
+        {
+            "citation":"GeoNames populated place 6281337: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6281337"
+        },
+        {
+            "citation":"GeoNames populated place 6281337: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6281337"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747103 (Ryongrim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6281337
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"51ecf7e7c8d06a2380ae4d38aa9e3cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747103,
+            "locality_id":9895032514,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895032514,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Soryonggol",
+    "wof:parent_id":1108747103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.76793,
+    40.22118,
+    126.76793,
+    40.22118
+],
+  "geometry": {"coordinates":[126.76793,40.22118],"type":"Point"}
+}

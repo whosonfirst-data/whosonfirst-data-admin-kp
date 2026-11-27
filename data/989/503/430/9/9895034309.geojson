@@ -1,0 +1,74 @@
+{
+  "id": 9895034309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.64973,40.56081,125.64973,40.56081",
+    "geom:latitude":40.56081,
+    "geom:longitude":125.64973,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13289918: name \"Pogu-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13289918"
+        },
+        {
+            "citation":"GeoNames populated place 13289918: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13289918"
+        },
+        {
+            "citation":"GeoNames populated place 13289918: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13289918"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747225 (Usi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13289918
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d8b16d0d81a44ad5037b098b3f9b84e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":9895034309,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034309,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pogu-dong",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.64973,
+    40.56081,
+    125.64973,
+    40.56081
+],
+  "geometry": {"coordinates":[125.64973,40.56081],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895035843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.80736,40.09597,124.80736,40.09597",
+    "geom:latitude":40.09597,
+    "geom:longitude":124.80736,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13629079: name \"Sottaeb\u014fl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13629079"
+        },
+        {
+            "citation":"GeoNames populated place 13629079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13629079"
+        },
+        {
+            "citation":"GeoNames populated place 13629079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13629079"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746867 (Chonma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13629079
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"094d85733182e3b50fcadaad2eb4774f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":9895035843,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035843,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sottaeb\u014fl",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.80736,
+    40.09597,
+    124.80736,
+    40.09597
+],
+  "geometry": {"coordinates":[124.80736,40.09597],"type":"Point"}
+}

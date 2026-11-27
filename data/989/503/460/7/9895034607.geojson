@@ -1,0 +1,74 @@
+{
+  "id": 9895034607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.92942,38.8759,127.92942,38.8759",
+    "geom:latitude":38.8759,
+    "geom:longitude":127.92942,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13523872: name \"Ryongam-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13523872"
+        },
+        {
+            "citation":"GeoNames populated place 13523872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13523872"
+        },
+        {
+            "citation":"GeoNames populated place 13523872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13523872"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747187 (Thongchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13523872
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1773eca527d92d3d109d58993b04665f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747187,
+            "locality_id":9895034607,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034607,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ryongam-ni",
+    "wof:parent_id":1108747187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.92942,
+    38.8759,
+    127.92942,
+    38.8759
+],
+  "geometry": {"coordinates":[127.92942,38.8759],"type":"Point"}
+}

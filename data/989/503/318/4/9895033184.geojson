@@ -1,0 +1,74 @@
+{
+  "id": 9895033184,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.08051,40.53082,129.08051,40.53082",
+    "geom:latitude":40.53082,
+    "geom:longitude":129.08051,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12121552: name \"P\u014fm-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12121552"
+        },
+        {
+            "citation":"GeoNames populated place 12121552: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12121552"
+        },
+        {
+            "citation":"GeoNames populated place 12121552: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12121552"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748049 (Tanchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12121552
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fff843ef83bda8e06f8327d20a3b6855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":9895033184,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033184,
+    "wof:lastmodified":1795734963,
+    "wof:name":"P\u014fm-gol",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.08051,
+    40.53082,
+    129.08051,
+    40.53082
+],
+  "geometry": {"coordinates":[129.08051,40.53082],"type":"Point"}
+}

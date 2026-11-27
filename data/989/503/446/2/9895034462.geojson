@@ -1,0 +1,74 @@
+{
+  "id": 9895034462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.1345,40.22802,127.1345,40.22802",
+    "geom:latitude":40.22802,
+    "geom:longitude":127.1345,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13456177: name \"Manp'ung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13456177"
+        },
+        {
+            "citation":"GeoNames populated place 13456177: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13456177"
+        },
+        {
+            "citation":"GeoNames populated place 13456177: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13456177"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746913 (Jangjin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108746913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13456177
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1aa9c6540a5056f1680dcaa3e147030d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746913,
+            "locality_id":9895034462,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034462,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Manp'ung",
+    "wof:parent_id":1108746913,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.1345,
+    40.22802,
+    127.1345,
+    40.22802
+],
+  "geometry": {"coordinates":[127.1345,40.22802],"type":"Point"}
+}

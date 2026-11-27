@@ -1,0 +1,74 @@
+{
+  "id": 9895034317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.85749,40.87635,125.85749,40.87635",
+    "geom:latitude":40.87635,
+    "geom:longitude":125.85749,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13291169: name \"Taery\u014fn-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13291169"
+        },
+        {
+            "citation":"GeoNames populated place 13291169: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13291169"
+        },
+        {
+            "citation":"GeoNames populated place 13291169: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13291169"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747741 (Chosan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13291169
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"64cf32dbe22c0485295173ca8570e53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747741,
+            "locality_id":9895034317,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034317,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Taery\u014fn-dong",
+    "wof:parent_id":1108747741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.85749,
+    40.87635,
+    125.85749,
+    40.87635
+],
+  "geometry": {"coordinates":[125.85749,40.87635],"type":"Point"}
+}

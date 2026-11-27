@@ -1,0 +1,74 @@
+{
+  "id": 9895032759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.38127,42.38589,130.38127,42.38589",
+    "geom:latitude":42.38589,
+    "geom:longitude":130.38127,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12086819: name \"Sangy\u014fn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12086819"
+        },
+        {
+            "citation":"GeoNames populated place 12086819: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12086819"
+        },
+        {
+            "citation":"GeoNames populated place 12086819: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12086819"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747091 (Rason), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676647,
+        102191569,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12086819
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b01ffa2441526402b416ac7fe1bdc864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":9895032759,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":9895032759,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sangy\u014fn",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.38127,
+    42.38589,
+    130.38127,
+    42.38589
+],
+  "geometry": {"coordinates":[130.38127,42.38589],"type":"Point"}
+}

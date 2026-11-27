@@ -1,0 +1,74 @@
+{
+  "id": 9895035420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.45789,38.96902,126.45789,38.96902",
+    "geom:latitude":38.96902,
+    "geom:longitude":126.45789,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13600074: name \"Pang-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13600074"
+        },
+        {
+            "citation":"GeoNames populated place 13600074: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13600074"
+        },
+        {
+            "citation":"GeoNames populated place 13600074: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13600074"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746883 (Hoechang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108746883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13600074
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d85bc185db39821eb5010f46610a6fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746883,
+            "locality_id":9895035420,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895035420,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pang-gol",
+    "wof:parent_id":1108746883,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.45789,
+    38.96902,
+    126.45789,
+    38.96902
+],
+  "geometry": {"coordinates":[126.45789,38.96902],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895036134,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.68869,39.79971,125.68869,39.79971",
+    "geom:latitude":39.79971,
+    "geom:longitude":125.68869,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13656837: name \"Yun-ch'on\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13656837"
+        },
+        {
+            "citation":"GeoNames populated place 13656837: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13656837"
+        },
+        {
+            "citation":"GeoNames populated place 13656837: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13656837"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747023 (Nyongbyon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13656837
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e39a45308c5e2df10bc145efff16be48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747023,
+            "locality_id":9895036134,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895036134,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yun-ch'on",
+    "wof:parent_id":1108747023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.68869,
+    39.79971,
+    125.68869,
+    39.79971
+],
+  "geometry": {"coordinates":[125.68869,39.79971],"type":"Point"}
+}

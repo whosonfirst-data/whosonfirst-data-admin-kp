@@ -1,0 +1,74 @@
+{
+  "id": 9895034724,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.21949,38.94705,127.21949,38.94705",
+    "geom:latitude":38.94705,
+    "geom:longitude":127.21949,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13540027: name \"Y\u014funjak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13540027"
+        },
+        {
+            "citation":"GeoNames populated place 13540027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13540027"
+        },
+        {
+            "citation":"GeoNames populated place 13540027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13540027"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747065 (Popdong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13540027
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ba4fe98544d8e2384be88145c97ba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":9895034724,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034724,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Y\u014funjak",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.21949,
+    38.94705,
+    127.21949,
+    38.94705
+],
+  "geometry": {"coordinates":[127.21949,38.94705],"type":"Point"}
+}

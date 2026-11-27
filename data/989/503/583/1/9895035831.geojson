@@ -1,0 +1,74 @@
+{
+  "id": 9895035831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.95133,38.6171,125.95133,38.6171",
+    "geom:latitude":38.6171,
+    "geom:longitude":125.95133,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13629057: name \"Ryongdu-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13629057"
+        },
+        {
+            "citation":"GeoNames populated place 13629057: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13629057"
+        },
+        {
+            "citation":"GeoNames populated place 13629057: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13629057"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748117 (Yonthan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13629057
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a7f749323616f3c37d972ab1f3e34247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":9895035831,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035831,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ryongdu-dong",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.95133,
+    38.6171,
+    125.95133,
+    38.6171
+],
+  "geometry": {"coordinates":[125.95133,38.6171],"type":"Point"}
+}

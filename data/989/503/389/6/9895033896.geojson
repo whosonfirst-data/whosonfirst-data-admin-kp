@@ -1,0 +1,74 @@
+{
+  "id": 9895033896,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.59844,40.12572,124.59844,40.12572",
+    "geom:latitude":40.12572,
+    "geom:longitude":124.59844,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809130: name \"Karo-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809130"
+        },
+        {
+            "citation":"GeoNames populated place 12809130: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809130"
+        },
+        {
+            "citation":"GeoNames populated place 12809130: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809130"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747205 (Uiju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809130
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f5b83703b7df72dd650ca828e88db070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747205,
+            "locality_id":9895033896,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033896,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Karo-dong",
+    "wof:parent_id":1108747205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.59844,
+    40.12572,
+    124.59844,
+    40.12572
+],
+  "geometry": {"coordinates":[124.59844,40.12572],"type":"Point"}
+}

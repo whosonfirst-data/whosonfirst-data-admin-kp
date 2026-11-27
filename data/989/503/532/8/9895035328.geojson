@@ -1,0 +1,74 @@
+{
+  "id": 9895035328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63182,38.00024,126.63182,38.00024",
+    "geom:latitude":38.00024,
+    "geom:longitude":126.63182,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13587644: name \"Ch'\u014fnha-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13587644"
+        },
+        {
+            "citation":"GeoNames populated place 13587644: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13587644"
+        },
+        {
+            "citation":"GeoNames populated place 13587644: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13587644"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747043 (Panmun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13587644
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d8ddc3dd402a2ea83b17fb95cf298455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":9895035328,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035328,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch'\u014fnha-dong",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63182,
+    38.00024,
+    126.63182,
+    38.00024
+],
+  "geometry": {"coordinates":[126.63182,38.00024],"type":"Point"}
+}

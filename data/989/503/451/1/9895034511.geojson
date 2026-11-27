@@ -1,0 +1,74 @@
+{
+  "id": 9895034511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.1301,38.46963,128.1301,38.46963",
+    "geom:latitude":38.46963,
+    "geom:longitude":128.1301,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13517589: name \"Kwigol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13517589"
+        },
+        {
+            "citation":"GeoNames populated place 13517589: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13517589"
+        },
+        {
+            "citation":"GeoNames populated place 13517589: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13517589"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747853 (Kumgang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13517589
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e65842aca56837ade9d1428bfae85417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":9895034511,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034511,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kwigol",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.1301,
+    38.46963,
+    128.1301,
+    38.46963
+],
+  "geometry": {"coordinates":[128.1301,38.46963],"type":"Point"}
+}

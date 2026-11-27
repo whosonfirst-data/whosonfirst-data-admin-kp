@@ -1,0 +1,74 @@
+{
+  "id": 9895033442,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75765,39.07993,126.75765,39.07993",
+    "geom:latitude":39.07993,
+    "geom:longitude":126.75765,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12515708: name \"K\u016dmgang-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12515708"
+        },
+        {
+            "citation":"GeoNames populated place 12515708: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12515708"
+        },
+        {
+            "citation":"GeoNames populated place 12515708: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12515708"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748001 (Sinphyong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12515708
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ccc0ab84238a6107d80204722c682e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":9895033442,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895033442,
+    "wof:lastmodified":1795734963,
+    "wof:name":"K\u016dmgang-dong",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75765,
+    39.07993,
+    126.75765,
+    39.07993
+],
+  "geometry": {"coordinates":[126.75765,39.07993],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895033489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.99684,39.25212,126.99684,39.25212",
+    "geom:latitude":39.25212,
+    "geom:longitude":126.99684,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539518: name \"Hwanam-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539518"
+        },
+        {
+            "citation":"GeoNames populated place 12539518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539518"
+        },
+        {
+            "citation":"GeoNames populated place 12539518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539518"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748031 (Sudong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539518
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a7b70504fb93678fe2cb19c659916cb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748031,
+            "locality_id":9895033489,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033489,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hwanam-dong",
+    "wof:parent_id":1108748031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.99684,
+    39.25212,
+    126.99684,
+    39.25212
+],
+  "geometry": {"coordinates":[126.99684,39.25212],"type":"Point"}
+}

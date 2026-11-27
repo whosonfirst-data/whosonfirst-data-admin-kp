@@ -1,0 +1,74 @@
+{
+  "id": 9895033550,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.84153,39.64666,126.84153,39.64666",
+    "geom:latitude":39.64666,
+    "geom:longitude":126.84153,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12541975: name \"Hasim-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12541975"
+        },
+        {
+            "citation":"GeoNames populated place 12541975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12541975"
+        },
+        {
+            "citation":"GeoNames populated place 12541975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12541975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748103 (Yodok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12541975
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6df8e556faae6609faf442fb77c1d71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748103,
+            "locality_id":9895033550,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033550,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hasim-ni",
+    "wof:parent_id":1108748103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.84153,
+    39.64666,
+    126.84153,
+    39.64666
+],
+  "geometry": {"coordinates":[126.84153,39.64666],"type":"Point"}
+}

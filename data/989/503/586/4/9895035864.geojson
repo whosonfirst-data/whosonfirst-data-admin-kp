@@ -1,0 +1,74 @@
+{
+  "id": 9895035864,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.80287,40.03041,124.80287,40.03041",
+    "geom:latitude":40.03041,
+    "geom:longitude":124.80287,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13629200: name \"Chag\u016dnso-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13629200"
+        },
+        {
+            "citation":"GeoNames populated place 13629200: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13629200"
+        },
+        {
+            "citation":"GeoNames populated place 13629200: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13629200"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746867 (Chonma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13629200
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7ccebfb56c613f4f5649d72ca903b63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":9895035864,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035864,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chag\u016dnso-gol",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.80287,
+    40.03041,
+    124.80287,
+    40.03041
+],
+  "geometry": {"coordinates":[124.80287,40.03041],"type":"Point"}
+}

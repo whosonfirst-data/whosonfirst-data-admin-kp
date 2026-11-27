@@ -1,0 +1,74 @@
+{
+  "id": 9895033878,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.70316,40.07924,125.70316,40.07924",
+    "geom:latitude":40.07924,
+    "geom:longitude":125.70316,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809103: name \"Churak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809103"
+        },
+        {
+            "citation":"GeoNames populated place 12809103: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809103"
+        },
+        {
+            "citation":"GeoNames populated place 12809103: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809103"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748089 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809103
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bb52fc7ff663cc1ebb5c1d65cb6805a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":9895033878,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033878,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Churak",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.70316,
+    40.07924,
+    125.70316,
+    40.07924
+],
+  "geometry": {"coordinates":[125.70316,40.07924],"type":"Point"}
+}

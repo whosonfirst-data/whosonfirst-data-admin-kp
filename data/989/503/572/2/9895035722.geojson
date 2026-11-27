@@ -1,0 +1,74 @@
+{
+  "id": 9895035722,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8094,38.72992,125.8094,38.72992",
+    "geom:latitude":38.72992,
+    "geom:longitude":125.8094,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13628625: name \"Ryongdam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13628625"
+        },
+        {
+            "citation":"GeoNames populated place 13628625: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13628625"
+        },
+        {
+            "citation":"GeoNames populated place 13628625: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13628625"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747765 (Hwangju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13628625
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ca1b7abad9f528444545b032348cf33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":9895035722,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035722,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ryongdam",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8094,
+    38.72992,
+    125.8094,
+    38.72992
+],
+  "geometry": {"coordinates":[125.8094,38.72992],"type":"Point"}
+}

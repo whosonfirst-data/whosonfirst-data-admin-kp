@@ -1,0 +1,74 @@
+{
+  "id": 9895032658,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.83638,42.71068,129.83638,42.71068",
+    "geom:latitude":42.71068,
+    "geom:longitude":129.83638,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12084841: name \"Muk-kol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12084841"
+        },
+        {
+            "citation":"GeoNames populated place 12084841: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12084841"
+        },
+        {
+            "citation":"GeoNames populated place 12084841: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12084841"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746885 (Hoeryong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12084841
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"575cffb2dba7646cf46d0faf7a3f2dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":9895032658,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032658,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Muk-kol",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.83638,
+    42.71068,
+    129.83638,
+    42.71068
+],
+  "geometry": {"coordinates":[129.83638,42.71068],"type":"Point"}
+}

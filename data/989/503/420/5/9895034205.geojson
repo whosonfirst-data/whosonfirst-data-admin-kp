@@ -1,0 +1,74 @@
+{
+  "id": 9895034205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.50603,39.42026,126.50603,39.42026",
+    "geom:latitude":39.42026,
+    "geom:longitude":126.50603,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121878: name \"Han'gi-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121878"
+        },
+        {
+            "citation":"GeoNames populated place 13121878: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121878"
+        },
+        {
+            "citation":"GeoNames populated place 13121878: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121878"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747141 (Sinyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121878
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b1f9fd8b52eb7c09ce5738fd5d47a032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":9895034205,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895034205,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Han'gi-dong",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.50603,
+    39.42026,
+    126.50603,
+    39.42026
+],
+  "geometry": {"coordinates":[126.50603,39.42026],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.91733,39.49097,125.91733,39.49097",
+    "geom:latitude":39.49097,
+    "geom:longitude":125.91733,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13452416: name \"Saemal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13452416"
+        },
+        {
+            "citation":"GeoNames populated place 13452416: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13452416"
+        },
+        {
+            "citation":"GeoNames populated place 13452416: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13452416"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748035 (Sunchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108748035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13452416
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c7fd3df2bc7fa1f23d6e16797d6f8567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748035,
+            "locality_id":9895034429,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895034429,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saemal",
+    "wof:parent_id":1108748035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.91733,
+    39.49097,
+    125.91733,
+    39.49097
+],
+  "geometry": {"coordinates":[125.91733,39.49097],"type":"Point"}
+}

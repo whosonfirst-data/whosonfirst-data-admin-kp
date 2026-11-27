@@ -1,0 +1,74 @@
+{
+  "id": 9895034672,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.42624,38.97207,127.42624,38.97207",
+    "geom:latitude":38.97207,
+    "geom:longitude":127.42624,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13533187: name \"Shinch'\u014fn-ma\u016dl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13533187"
+        },
+        {
+            "citation":"GeoNames populated place 13533187: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13533187"
+        },
+        {
+            "citation":"GeoNames populated place 13533187: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13533187"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746973 (Kosan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13533187
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b64a760e7d80b256ffefb130441ce729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746973,
+            "locality_id":9895034672,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034672,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Shinch'\u014fn-ma\u016dl",
+    "wof:parent_id":1108746973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.42624,
+    38.97207,
+    127.42624,
+    38.97207
+],
+  "geometry": {"coordinates":[127.42624,38.97207],"type":"Point"}
+}

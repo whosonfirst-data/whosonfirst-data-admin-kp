@@ -1,0 +1,74 @@
+{
+  "id": 9895035699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.77484,38.74067,125.77484,38.74067",
+    "geom:latitude":38.74067,
+    "geom:longitude":125.77484,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13628574: name \"Kwangmy\u014fng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13628574"
+        },
+        {
+            "citation":"GeoNames populated place 13628574: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13628574"
+        },
+        {
+            "citation":"GeoNames populated place 13628574: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13628574"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747765 (Hwangju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13628574
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2e1b53efbe5682cd28f90a133bd63177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":9895035699,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035699,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kwangmy\u014fng",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.77484,
+    38.74067,
+    125.77484,
+    38.74067
+],
+  "geometry": {"coordinates":[125.77484,38.74067],"type":"Point"}
+}

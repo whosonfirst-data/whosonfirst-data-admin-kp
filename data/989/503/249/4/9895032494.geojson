@@ -1,0 +1,74 @@
+{
+  "id": 9895032494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.55111,37.98111,125.55111,37.98111",
+    "geom:latitude":37.98111,
+    "geom:longitude":125.55111,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6274372: name \"K\u016dmby\u014fng-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6274372"
+        },
+        {
+            "citation":"GeoNames populated place 6274372: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6274372"
+        },
+        {
+            "citation":"GeoNames populated place 6274372: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6274372"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747817 (Kangryong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274372
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cbeacc040a14353e24d47e12429d0297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":9895032494,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895032494,
+    "wof:lastmodified":1795734963,
+    "wof:name":"K\u016dmby\u014fng-ni",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.55111,
+    37.98111,
+    125.55111,
+    37.98111
+],
+  "geometry": {"coordinates":[125.55111,37.98111],"type":"Point"}
+}

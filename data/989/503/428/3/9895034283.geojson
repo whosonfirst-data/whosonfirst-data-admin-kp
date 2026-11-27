@@ -1,0 +1,74 @@
+{
+  "id": 9895034283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.53365,40.67179,125.53365,40.67179",
+    "geom:latitude":40.67179,
+    "geom:longitude":125.53365,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13289390: name \"Ch\u014fnjang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13289390"
+        },
+        {
+            "citation":"GeoNames populated place 13289390: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13289390"
+        },
+        {
+            "citation":"GeoNames populated place 13289390: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13289390"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747225 (Usi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13289390
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3eaf3911c5ad4aa9c27c1bc36e2ef581",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":9895034283,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034283,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch\u014fnjang",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.53365,
+    40.67179,
+    125.53365,
+    40.67179
+],
+  "geometry": {"coordinates":[125.53365,40.67179],"type":"Point"}
+}

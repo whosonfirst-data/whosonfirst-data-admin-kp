@@ -1,0 +1,74 @@
+{
+  "id": 9895035358,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64288,37.94335,126.64288,37.94335",
+    "geom:latitude":37.94335,
+    "geom:longitude":126.64288,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13587836: name \"Paekch'\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13587836"
+        },
+        {
+            "citation":"GeoNames populated place 13587836: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13587836"
+        },
+        {
+            "citation":"GeoNames populated place 13587836: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13587836"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747043 (Panmun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13587836
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e41b54ff6b465fb5c2c0dc8eddccb28d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":9895035358,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035358,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Paekch'\u014fl-li",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64288,
+    37.94335,
+    126.64288,
+    37.94335
+],
+  "geometry": {"coordinates":[126.64288,37.94335],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.86722,40.49936,125.86722,40.49936",
+    "geom:latitude":40.49936,
+    "geom:longitude":125.86722,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13037599: name \"Ryonggong-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13037599"
+        },
+        {
+            "citation":"GeoNames populated place 13037599: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13037599"
+        },
+        {
+            "citation":"GeoNames populated place 13037599: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13037599"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746971 (Kophung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13037599
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9e3787d06d1a9a2d3c9cbd17a11a0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":9895034093,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034093,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ryonggong-ni",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.86722,
+    40.49936,
+    125.86722,
+    40.49936
+],
+  "geometry": {"coordinates":[125.86722,40.49936],"type":"Point"}
+}

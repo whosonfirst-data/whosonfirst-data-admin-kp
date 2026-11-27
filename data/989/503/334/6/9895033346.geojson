@@ -1,0 +1,74 @@
+{
+  "id": 9895033346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.45842,38.30361,125.45842,38.30361",
+    "geom:latitude":38.30361,
+    "geom:longitude":125.45842,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489874: name \"Chahyesa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489874"
+        },
+        {
+            "citation":"GeoNames populated place 12489874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489874"
+        },
+        {
+            "citation":"GeoNames populated place 12489874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489874"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747123 (Sinchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489874
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"54f11cd7146a5d0b04ecbeb7bd277e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":9895033346,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033346,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chahyesa",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.45842,
+    38.30361,
+    125.45842,
+    38.30361
+],
+  "geometry": {"coordinates":[125.45842,38.30361],"type":"Point"}
+}

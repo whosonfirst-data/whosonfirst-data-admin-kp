@@ -1,0 +1,74 @@
+{
+  "id": 9895033227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.79128,41.36874,126.79128,41.36874",
+    "geom:latitude":41.36874,
+    "geom:longitude":126.79128,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12145544: name \"Taehoe-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12145544"
+        },
+        {
+            "citation":"GeoNames populated place 12145544: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12145544"
+        },
+        {
+            "citation":"GeoNames populated place 12145544: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12145544"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747767 (Hwaphyong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12145544
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3c72fd1c92f8760306dec651f170b7e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747767,
+            "locality_id":9895033227,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033227,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Taehoe-dong",
+    "wof:parent_id":1108747767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.79128,
+    41.36874,
+    126.79128,
+    41.36874
+],
+  "geometry": {"coordinates":[126.79128,41.36874],"type":"Point"}
+}

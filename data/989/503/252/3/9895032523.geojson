@@ -1,0 +1,74 @@
+{
+  "id": 9895032523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.56785,41.51907,126.56785,41.51907",
+    "geom:latitude":41.51907,
+    "geom:longitude":126.56785,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6302177: name \"Ha-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6302177"
+        },
+        {
+            "citation":"GeoNames populated place 6302177: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6302177"
+        },
+        {
+            "citation":"GeoNames populated place 6302177: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6302177"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746919 (Jasong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108746919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6302177
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"98e6fa4026036def316b7633a5d1a7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746919,
+            "locality_id":9895032523,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895032523,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ha-dong",
+    "wof:parent_id":1108746919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.56785,
+    41.51907,
+    126.56785,
+    41.51907
+],
+  "geometry": {"coordinates":[126.56785,41.51907],"type":"Point"}
+}

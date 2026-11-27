@@ -1,0 +1,74 @@
+{
+  "id": 9895033345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.43389,38.36521,125.43389,38.36521",
+    "geom:latitude":38.36521,
+    "geom:longitude":125.43389,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489873: name \"Aedanggol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489873"
+        },
+        {
+            "citation":"GeoNames populated place 12489873: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489873"
+        },
+        {
+            "citation":"GeoNames populated place 12489873: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489873"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746843 (Anak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489873
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c81e73fd23055796d3c1e7610aa5b7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":9895033345,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033345,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Aedanggol",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.43389,
+    38.36521,
+    125.43389,
+    38.36521
+],
+  "geometry": {"coordinates":[125.43389,38.36521],"type":"Point"}
+}

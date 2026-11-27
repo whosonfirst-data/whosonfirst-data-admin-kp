@@ -1,0 +1,74 @@
+{
+  "id": 9895033693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.11135,39.20405,127.11135,39.20405",
+    "geom:latitude":39.20405,
+    "geom:longitude":127.11135,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12606639: name \"Y\u014fngs\u014fn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12606639"
+        },
+        {
+            "citation":"GeoNames populated place 12606639: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12606639"
+        },
+        {
+            "citation":"GeoNames populated place 12606639: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12606639"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746869 (Chonnae), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12606639
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"55eebede91f30a34b0cb06acc55fb097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746869,
+            "locality_id":9895033693,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895033693,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Y\u014fngs\u014fn",
+    "wof:parent_id":1108746869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.11135,
+    39.20405,
+    127.11135,
+    39.20405
+],
+  "geometry": {"coordinates":[127.11135,39.20405],"type":"Point"}
+}

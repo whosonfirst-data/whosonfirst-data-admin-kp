@@ -1,0 +1,74 @@
+{
+  "id": 9895034169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62232,39.79758,126.62232,39.79758",
+    "geom:latitude":39.79758,
+    "geom:longitude":126.62232,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13106421: name \"Tolmegi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13106421"
+        },
+        {
+            "citation":"GeoNames populated place 13106421: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13106421"
+        },
+        {
+            "citation":"GeoNames populated place 13106421: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13106421"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747005 (Maengsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13106421
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6a9d5488b16e3837992a61181c6beb8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":9895034169,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895034169,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tolmegi",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62232,
+    39.79758,
+    126.62232,
+    39.79758
+],
+  "geometry": {"coordinates":[126.62232,39.79758],"type":"Point"}
+}

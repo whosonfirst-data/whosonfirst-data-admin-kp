@@ -1,0 +1,74 @@
+{
+  "id": 9895032313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.13028,39.93167,127.13028,39.93167",
+    "geom:latitude":39.93167,
+    "geom:longitude":127.13028,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1891837: name \"Paek-kol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1891837"
+        },
+        {
+            "citation":"GeoNames populated place 1891837: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1891837"
+        },
+        {
+            "citation":"GeoNames populated place 1891837: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1891837"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747747 (Hamju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1891837
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6fa197f8700913ea66ee5f1ec5bb82d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747747,
+            "locality_id":9895032313,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895032313,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Paek-kol",
+    "wof:parent_id":1108747747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.13028,
+    39.93167,
+    127.13028,
+    39.93167
+],
+  "geometry": {"coordinates":[127.13028,39.93167],"type":"Point"}
+}

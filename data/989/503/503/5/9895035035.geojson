@@ -1,0 +1,74 @@
+{
+  "id": 9895035035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.81781,38.17709,126.81781,38.17709",
+    "geom:latitude":38.17709,
+    "geom:longitude":126.81781,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13569851: name \"S\u014fpche-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13569851"
+        },
+        {
+            "citation":"GeoNames populated place 13569851: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13569851"
+        },
+        {
+            "citation":"GeoNames populated place 13569851: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13569851"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746915 (Jangphung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13569851
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8a78eaf1d4957caae10f3360e2957f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":9895035035,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035035,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014fpche-dong",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.81781,
+    38.17709,
+    126.81781,
+    38.17709
+],
+  "geometry": {"coordinates":[126.81781,38.17709],"type":"Point"}
+}

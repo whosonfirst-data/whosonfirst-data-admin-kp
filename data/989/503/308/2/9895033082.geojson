@@ -1,0 +1,74 @@
+{
+  "id": 9895033082,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.12835,41.34713,128.12835,41.34713",
+    "geom:latitude":41.34713,
+    "geom:longitude":128.12835,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12120646: name \"Hoesa-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12120646"
+        },
+        {
+            "citation":"GeoNames populated place 12120646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12120646"
+        },
+        {
+            "citation":"GeoNames populated place 12120646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12120646"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747113 (Samsu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12120646
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3daee27c01f1b460bcc513f475b978e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":9895033082,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895033082,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hoesa-dong",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.12835,
+    41.34713,
+    128.12835,
+    41.34713
+],
+  "geometry": {"coordinates":[128.12835,41.34713],"type":"Point"}
+}

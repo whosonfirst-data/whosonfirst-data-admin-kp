@@ -1,0 +1,74 @@
+{
+  "id": 9895033376,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.63446,38.44511,126.63446,38.44511",
+    "geom:latitude":38.44511,
+    "geom:longitude":126.63446,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12497528: name \"Paksu-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12497528"
+        },
+        {
+            "citation":"GeoNames populated place 12497528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12497528"
+        },
+        {
+            "citation":"GeoNames populated place 12497528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12497528"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747999 (Sinkye), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12497528
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4ea0bacea73c47a58a14a8ce717ac91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":9895033376,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895033376,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Paksu-dong",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.63446,
+    38.44511,
+    126.63446,
+    38.44511
+],
+  "geometry": {"coordinates":[126.63446,38.44511],"type":"Point"}
+}

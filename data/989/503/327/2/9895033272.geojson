@@ -1,0 +1,74 @@
+{
+  "id": 9895033272,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.07503,39.63879,125.07503,39.63879",
+    "geom:latitude":39.63879,
+    "geom:longitude":125.07503,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12255359: name \"Namni-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12255359"
+        },
+        {
+            "citation":"GeoNames populated place 12255359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12255359"
+        },
+        {
+            "citation":"GeoNames populated place 12255359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12255359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746995 (Kwaksan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12255359
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"94cab4e570e43e31dd5103691627bf84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746995,
+            "locality_id":9895033272,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033272,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Namni-dong",
+    "wof:parent_id":1108746995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.07503,
+    39.63879,
+    125.07503,
+    39.63879
+],
+  "geometry": {"coordinates":[125.07503,39.63879],"type":"Point"}
+}

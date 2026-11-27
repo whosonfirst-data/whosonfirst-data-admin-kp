@@ -1,0 +1,74 @@
+{
+  "id": 9895033410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.18661,38.47728,127.18661,38.47728",
+    "geom:latitude":38.47728,
+    "geom:longitude":127.18661,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12500162: name \"Tanggol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12500162"
+        },
+        {
+            "citation":"GeoNames populated place 12500162: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12500162"
+        },
+        {
+            "citation":"GeoNames populated place 12500162: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12500162"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747947 (Pyonggang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12500162
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"14806e5b7c0e287f3319fa0f88405d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747947,
+            "locality_id":9895033410,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895033410,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tanggol",
+    "wof:parent_id":1108747947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.18661,
+    38.47728,
+    127.18661,
+    38.47728
+],
+  "geometry": {"coordinates":[127.18661,38.47728],"type":"Point"}
+}

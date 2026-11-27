@@ -1,0 +1,74 @@
+{
+  "id": 9895033515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.15763,39.42876,126.15763,39.42876",
+    "geom:latitude":39.42876,
+    "geom:longitude":126.15763,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539863: name \"Kan\u016dn'gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539863"
+        },
+        {
+            "citation":"GeoNames populated place 12539863: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539863"
+        },
+        {
+            "citation":"GeoNames populated place 12539863: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539863"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748091 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539863
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"bab5584beb571030d3949f81323a8b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":9895033515,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033515,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kan\u016dn'gol",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.15763,
+    39.42876,
+    126.15763,
+    39.42876
+],
+  "geometry": {"coordinates":[126.15763,39.42876],"type":"Point"}
+}

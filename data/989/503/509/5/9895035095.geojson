@@ -1,0 +1,74 @@
+{
+  "id": 9895035095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.9365,38.19952,126.9365,38.19952",
+    "geom:latitude":38.19952,
+    "geom:longitude":126.9365,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13570433: name \"Huch'\u014fn-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13570433"
+        },
+        {
+            "citation":"GeoNames populated place 13570433: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13570433"
+        },
+        {
+            "citation":"GeoNames populated place 13570433: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13570433"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747727 (Cholwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13570433
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f5636e6257a36919a49624694624aa25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747727,
+            "locality_id":9895035095,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895035095,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Huch'\u014fn-dong",
+    "wof:parent_id":1108747727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.9365,
+    38.19952,
+    126.9365,
+    38.19952
+],
+  "geometry": {"coordinates":[126.9365,38.19952],"type":"Point"}
+}

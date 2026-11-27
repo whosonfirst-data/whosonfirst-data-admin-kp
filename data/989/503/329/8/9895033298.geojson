@@ -1,0 +1,74 @@
+{
+  "id": 9895033298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17631,38.00023,125.17631,38.00023",
+    "geom:latitude":38.00023,
+    "geom:longitude":125.17631,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12402485: name \"Korae-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12402485"
+        },
+        {
+            "citation":"GeoNames populated place 12402485: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12402485"
+        },
+        {
+            "citation":"GeoNames populated place 12402485: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12402485"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747029 (Ongjin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12402485
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7a432e5d253d20ead70b142e96449b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747029,
+            "locality_id":9895033298,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033298,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Korae-dong",
+    "wof:parent_id":1108747029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17631,
+    38.00023,
+    125.17631,
+    38.00023
+],
+  "geometry": {"coordinates":[125.17631,38.00023],"type":"Point"}
+}

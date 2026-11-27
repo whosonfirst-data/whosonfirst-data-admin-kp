@@ -1,0 +1,74 @@
+{
+  "id": 9895034859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.98922,38.52562,126.98922,38.52562",
+    "geom:latitude":38.52562,
+    "geom:longitude":126.98922,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13550394: name \"W\u014fnmu-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13550394"
+        },
+        {
+            "citation":"GeoNames populated place 13550394: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13550394"
+        },
+        {
+            "citation":"GeoNames populated place 13550394: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13550394"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746905 (Ichon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13550394
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"41497d1abf4cc92f3b5a13228f9b562f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":9895034859,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034859,
+    "wof:lastmodified":1795734963,
+    "wof:name":"W\u014fnmu-dong",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.98922,
+    38.52562,
+    126.98922,
+    38.52562
+],
+  "geometry": {"coordinates":[126.98922,38.52562],"type":"Point"}
+}

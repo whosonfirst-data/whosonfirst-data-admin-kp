@@ -1,0 +1,74 @@
+{
+  "id": 9895032556,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.83022,38.72869,126.83022,38.72869",
+    "geom:latitude":38.72869,
+    "geom:longitude":126.83022,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6366788: name \"Kalby\u014fruk-kol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6366788"
+        },
+        {
+            "citation":"GeoNames populated place 6366788: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6366788"
+        },
+        {
+            "citation":"GeoNames populated place 6366788: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6366788"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747045 (Phangyo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366788
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6c40c4442130fe5cd909ea20d15c0e40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":9895032556,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895032556,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kalby\u014fruk-kol",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.83022,
+    38.72869,
+    126.83022,
+    38.72869
+],
+  "geometry": {"coordinates":[126.83022,38.72869],"type":"Point"}
+}

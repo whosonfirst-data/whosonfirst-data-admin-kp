@@ -1,0 +1,74 @@
+{
+  "id": 9895032518,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.06194,40.06,125.06194,40.06",
+    "geom:latitude":40.06,
+    "geom:longitude":125.06194,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6282031: name \"Nogol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6282031"
+        },
+        {
+            "citation":"GeoNames populated place 6282031: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6282031"
+        },
+        {
+            "citation":"GeoNames populated place 6282031: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6282031"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747859 (Kusong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6282031
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"55451b6480b61990afdfad4f52b30e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747859,
+            "locality_id":9895032518,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895032518,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nogol",
+    "wof:parent_id":1108747859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.06194,
+    40.06,
+    125.06194,
+    40.06
+],
+  "geometry": {"coordinates":[125.06194,40.06],"type":"Point"}
+}

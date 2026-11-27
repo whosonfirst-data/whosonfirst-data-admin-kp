@@ -1,0 +1,74 @@
+{
+  "id": 9895035408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.3193,38.9652,126.3193,38.9652",
+    "geom:latitude":38.9652,
+    "geom:longitude":126.3193,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13600019: name \"Samj\u014fng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13600019"
+        },
+        {
+            "citation":"GeoNames populated place 13600019: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13600019"
+        },
+        {
+            "citation":"GeoNames populated place 13600019: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13600019"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747811 (Kangdong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676611,
+        102191569,
+        1108747811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13600019
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ef848caf20e9a96ae29c53fcf284a110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747811,
+            "locality_id":9895035408,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":9895035408,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Samj\u014fng",
+    "wof:parent_id":1108747811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.3193,
+    38.9652,
+    126.3193,
+    38.9652
+],
+  "geometry": {"coordinates":[126.3193,38.9652],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.16771,41.3944,128.16771,41.3944",
+    "geom:latitude":41.3944,
+    "geom:longitude":128.16771,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13321104: name \"Sinheung-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13321104"
+        },
+        {
+            "citation":"GeoNames populated place 13321104: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13321104"
+        },
+        {
+            "citation":"GeoNames populated place 13321104: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13321104"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747113 (Samsu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13321104
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1c1da34132d812659aab4a511a5c6b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":9895034355,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895034355,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sinheung-dong",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.16771,
+    41.3944,
+    128.16771,
+    41.3944
+],
+  "geometry": {"coordinates":[128.16771,41.3944],"type":"Point"}
+}

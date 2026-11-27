@@ -1,0 +1,74 @@
+{
+  "id": 9895033328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.96469,37.85778,125.96469,37.85778",
+    "geom:latitude":37.85778,
+    "geom:longitude":125.96469,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12422439: name \"Maengguji\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12422439"
+        },
+        {
+            "citation":"GeoNames populated place 12422439: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12422439"
+        },
+        {
+            "citation":"GeoNames populated place 12422439: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12422439"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748107 (Yonan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108748107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12422439
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aa4dbb288a2b0f57d07cb029eab1e4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748107,
+            "locality_id":9895033328,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033328,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Maengguji",
+    "wof:parent_id":1108748107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.96469,
+    37.85778,
+    125.96469,
+    37.85778
+],
+  "geometry": {"coordinates":[125.96469,37.85778],"type":"Point"}
+}

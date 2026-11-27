@@ -1,0 +1,74 @@
+{
+  "id": 9895034386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.74838,42.44129,129.74838,42.44129",
+    "geom:latitude":42.44129,
+    "geom:longitude":129.74838,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13388244: name \"Osand\u014fk-tong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13388244"
+        },
+        {
+            "citation":"GeoNames populated place 13388244: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13388244"
+        },
+        {
+            "citation":"GeoNames populated place 13388244: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13388244"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746885 (Hoeryong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13388244
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3cf5e7e01b92453d40af403d706e6a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746885,
+            "locality_id":9895034386,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895034386,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Osand\u014fk-tong",
+    "wof:parent_id":1108746885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.74838,
+    42.44129,
+    129.74838,
+    42.44129
+],
+  "geometry": {"coordinates":[129.74838,42.44129],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895033855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40367,40.25994,126.40367,40.25994",
+    "geom:latitude":40.25994,
+    "geom:longitude":126.40367,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12791344: name \"Saegol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12791344"
+        },
+        {
+            "citation":"GeoNames populated place 12791344: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12791344"
+        },
+        {
+            "citation":"GeoNames populated place 12791344: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12791344"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747201 (Tongsin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12791344
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7afdb00768ea8d6f3a0ea1c39a1af3fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747201,
+            "locality_id":9895033855,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033855,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saegol",
+    "wof:parent_id":1108747201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40367,
+    40.25994,
+    126.40367,
+    40.25994
+],
+  "geometry": {"coordinates":[126.40367,40.25994],"type":"Point"}
+}

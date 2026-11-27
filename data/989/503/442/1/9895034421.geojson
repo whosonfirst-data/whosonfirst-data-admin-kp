@@ -1,0 +1,74 @@
+{
+  "id": 9895034421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37047,38.43353,125.37047,38.43353",
+    "geom:latitude":38.43353,
+    "geom:longitude":125.37047,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13450831: name \"Ilsin-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13450831"
+        },
+        {
+            "citation":"GeoNames populated place 13450831: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13450831"
+        },
+        {
+            "citation":"GeoNames populated place 13450831: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13450831"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746843 (Anak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108746843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13450831
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"61682a54451ebe3a4b33e80a6e0760cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746843,
+            "locality_id":9895034421,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895034421,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ilsin-dong",
+    "wof:parent_id":1108746843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37047,
+    38.43353,
+    125.37047,
+    38.43353
+],
+  "geometry": {"coordinates":[125.37047,38.43353],"type":"Point"}
+}

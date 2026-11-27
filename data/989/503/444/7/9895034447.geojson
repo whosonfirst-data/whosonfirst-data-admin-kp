@@ -1,0 +1,74 @@
+{
+  "id": 9895034447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.59128,40.24861,127.59128,40.24861",
+    "geom:latitude":40.24861,
+    "geom:longitude":127.59128,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13455274: name \"S\u014fh\u016dng-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13455274"
+        },
+        {
+            "citation":"GeoNames populated place 13455274: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13455274"
+        },
+        {
+            "citation":"GeoNames populated place 13455274: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13455274"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747129 (Sinhung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13455274
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8eb984a735befcb6de7b1f3d76bf06dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":9895034447,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034447,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014fh\u016dng-ni",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.59128,
+    40.24861,
+    127.59128,
+    40.24861
+],
+  "geometry": {"coordinates":[127.59128,40.24861],"type":"Point"}
+}

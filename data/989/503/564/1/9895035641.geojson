@@ -1,0 +1,74 @@
+{
+  "id": 9895035641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.72498,39.83756,124.72498,39.83756",
+    "geom:latitude":39.83756,
+    "geom:longitude":124.72498,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13623945: name \"Tokchang-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13623945"
+        },
+        {
+            "citation":"GeoNames populated place 13623945: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13623945"
+        },
+        {
+            "citation":"GeoNames populated place 13623945: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13623945"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747199 (Tongrim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13623945
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7d2848472af847e7f7b38411740ab839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":9895035641,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035641,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tokchang-gol",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.72498,
+    39.83756,
+    124.72498,
+    39.83756
+],
+  "geometry": {"coordinates":[124.72498,39.83756],"type":"Point"}
+}

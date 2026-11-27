@@ -1,0 +1,75 @@
+{
+  "id": 9895032427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.375,41.07889,126.375,41.07889",
+    "geom:latitude":41.07889,
+    "geom:longitude":126.375,
+    "gn:population":41842,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2041137: name \"Sijung\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2041137"
+        },
+        {
+            "citation":"GeoNames populated place 2041137: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2041137"
+        },
+        {
+            "citation":"GeoNames populated place 2041137: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2041137"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747121 (Sijung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041137
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"124b27122a7f683b94c6740e75887aca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747121,
+            "locality_id":9895032427,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895032427,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sijung",
+    "wof:parent_id":1108747121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.375,
+    41.07889,
+    126.375,
+    41.07889
+],
+  "geometry": {"coordinates":[126.375,41.07889],"type":"Point"}
+}

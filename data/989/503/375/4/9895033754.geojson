@@ -1,0 +1,74 @@
+{
+  "id": 9895033754,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.85108,40.01626,124.85108,40.01626",
+    "geom:latitude":40.01626,
+    "geom:longitude":124.85108,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12692339: name \"Samp'o\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12692339"
+        },
+        {
+            "citation":"GeoNames populated place 12692339: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12692339"
+        },
+        {
+            "citation":"GeoNames populated place 12692339: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12692339"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746867 (Chonma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12692339
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fd5c2e8066b248ec4959c37b98883a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":9895033754,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033754,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Samp'o",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.85108,
+    40.01626,
+    124.85108,
+    40.01626
+],
+  "geometry": {"coordinates":[124.85108,40.01626],"type":"Point"}
+}

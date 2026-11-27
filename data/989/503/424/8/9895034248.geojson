@@ -1,0 +1,74 @@
+{
+  "id": 9895034248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.27929,40.57941,128.27929,40.57941",
+    "geom:latitude":40.57941,
+    "geom:longitude":128.27929,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13193569: name \"Hajik-tong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13193569"
+        },
+        {
+            "citation":"GeoNames populated place 13193569: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13193569"
+        },
+        {
+            "citation":"GeoNames populated place 13193569: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13193569"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747193 (Toksong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13193569
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f83586d39456e366982185072d0ae8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":9895034248,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034248,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hajik-tong",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.27929,
+    40.57941,
+    128.27929,
+    40.57941
+],
+  "geometry": {"coordinates":[128.27929,40.57941],"type":"Point"}
+}

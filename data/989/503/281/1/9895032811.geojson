@@ -1,0 +1,74 @@
+{
+  "id": 9895032811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.19823,42.82166,130.19823,42.82166",
+    "geom:latitude":42.82166,
+    "geom:longitude":130.19823,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12090413: name \"Pongun-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12090413"
+        },
+        {
+            "citation":"GeoNames populated place 12090413: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12090413"
+        },
+        {
+            "citation":"GeoNames populated place 12090413: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12090413"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747003 (Kyongwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12090413
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f9493423daf48812a9c1920db7ef3c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747003,
+            "locality_id":9895032811,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032811,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pongun-dong",
+    "wof:parent_id":1108747003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.19823,
+    42.82166,
+    130.19823,
+    42.82166
+],
+  "geometry": {"coordinates":[130.19823,42.82166],"type":"Point"}
+}

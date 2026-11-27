@@ -1,0 +1,74 @@
+{
+  "id": 9895035338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.64484,38.01381,126.64484,38.01381",
+    "geom:latitude":38.01381,
+    "geom:longitude":126.64484,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13587686: name \"Kangnyong-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13587686"
+        },
+        {
+            "citation":"GeoNames populated place 13587686: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13587686"
+        },
+        {
+            "citation":"GeoNames populated place 13587686: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13587686"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747043 (Panmun), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747043
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13587686
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b73ca62d41d83201a590bb04af693dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747043,
+            "locality_id":9895035338,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035338,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kangnyong-gol",
+    "wof:parent_id":1108747043,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.64484,
+    38.01381,
+    126.64484,
+    38.01381
+],
+  "geometry": {"coordinates":[126.64484,38.01381],"type":"Point"}
+}

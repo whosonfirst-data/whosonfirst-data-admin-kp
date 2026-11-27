@@ -1,0 +1,74 @@
+{
+  "id": 9895033350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.40274,38.36139,125.40274,38.36139",
+    "geom:latitude":38.36139,
+    "geom:longitude":125.40274,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489882: name \"Chinh\u016dng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489882"
+        },
+        {
+            "citation":"GeoNames populated place 12489882: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489882"
+        },
+        {
+            "citation":"GeoNames populated place 12489882: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489882"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747123 (Sinchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489882
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d76d87746007c3200c7e659df51d8875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747123,
+            "locality_id":9895033350,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033350,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chinh\u016dng",
+    "wof:parent_id":1108747123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.40274,
+    38.36139,
+    125.40274,
+    38.36139
+],
+  "geometry": {"coordinates":[125.40274,38.36139],"type":"Point"}
+}

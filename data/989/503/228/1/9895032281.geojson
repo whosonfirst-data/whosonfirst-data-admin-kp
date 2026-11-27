@@ -1,0 +1,74 @@
+{
+  "id": 9895032281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.54045,39.29314,126.54045,39.29314",
+    "geom:latitude":39.29314,
+    "geom:longitude":126.54045,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1889212: name \"Karaegol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1889212"
+        },
+        {
+            "citation":"GeoNames populated place 1889212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1889212"
+        },
+        {
+            "citation":"GeoNames populated place 1889212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1889212"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747141 (Sinyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1889212
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"10435a8562b78ac41c0acfe04b7f3d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":9895032281,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895032281,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Karaegol",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.54045,
+    39.29314,
+    126.54045,
+    39.29314
+],
+  "geometry": {"coordinates":[126.54045,39.29314],"type":"Point"}
+}

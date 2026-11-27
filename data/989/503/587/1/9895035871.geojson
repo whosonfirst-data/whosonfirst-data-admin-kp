@@ -1,0 +1,74 @@
+{
+  "id": 9895035871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.76259,40.0155,124.76259,40.0155",
+    "geom:latitude":40.0155,
+    "geom:longitude":124.76259,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13629228: name \"Sae-ma\u016dl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13629228"
+        },
+        {
+            "citation":"GeoNames populated place 13629228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13629228"
+        },
+        {
+            "citation":"GeoNames populated place 13629228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13629228"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747199 (Tongrim), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13629228
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cc64154d7902f274861cd288266b703a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747199,
+            "locality_id":9895035871,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035871,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sae-ma\u016dl",
+    "wof:parent_id":1108747199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.76259,
+    40.0155,
+    124.76259,
+    40.0155
+],
+  "geometry": {"coordinates":[124.76259,40.0155],"type":"Point"}
+}

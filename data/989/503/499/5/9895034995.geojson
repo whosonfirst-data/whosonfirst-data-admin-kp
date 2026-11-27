@@ -1,0 +1,74 @@
+{
+  "id": 9895034995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71286,38.29698,126.71286,38.29698",
+    "geom:latitude":38.29698,
+    "geom:longitude":126.71286,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13568259: name \"Musi-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13568259"
+        },
+        {
+            "citation":"GeoNames populated place 13568259: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13568259"
+        },
+        {
+            "citation":"GeoNames populated place 13568259: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13568259"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747189 (Thosan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13568259
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2d391710e42dbdbd4e3328d038d0345d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747189,
+            "locality_id":9895034995,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895034995,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Musi-dong",
+    "wof:parent_id":1108747189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71286,
+    38.29698,
+    126.71286,
+    38.29698
+],
+  "geometry": {"coordinates":[126.71286,38.29698],"type":"Point"}
+}

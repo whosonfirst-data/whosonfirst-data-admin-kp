@@ -1,0 +1,74 @@
+{
+  "id": 9895034130,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.02541,40.0882,125.02541,40.0882",
+    "geom:latitude":40.0882,
+    "geom:longitude":125.02541,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13055062: name \"Nonggut'\u014f\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13055062"
+        },
+        {
+            "citation":"GeoNames populated place 13055062: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13055062"
+        },
+        {
+            "citation":"GeoNames populated place 13055062: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13055062"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746867 (Chonma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13055062
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2ad2b03579a05e718944419cab6ab39a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746867,
+            "locality_id":9895034130,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895034130,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nonggut'\u014f",
+    "wof:parent_id":1108746867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.02541,
+    40.0882,
+    125.02541,
+    40.0882
+],
+  "geometry": {"coordinates":[125.02541,40.0882],"type":"Point"}
+}

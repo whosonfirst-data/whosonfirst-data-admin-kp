@@ -1,0 +1,74 @@
+{
+  "id": 9895035992,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.23844,38.44309,126.23844,38.44309",
+    "geom:latitude":38.44309,
+    "geom:longitude":126.23844,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13655237: name \"N\u016dngdal-mal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13655237"
+        },
+        {
+            "citation":"GeoNames populated place 13655237: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13655237"
+        },
+        {
+            "citation":"GeoNames populated place 13655237: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13655237"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747145 (Sohung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13655237
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e5e62ad626d5c7bad8b6c5be3431b849",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":9895035992,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035992,
+    "wof:lastmodified":1795734963,
+    "wof:name":"N\u016dngdal-mal",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.23844,
+    38.44309,
+    126.23844,
+    38.44309
+],
+  "geometry": {"coordinates":[126.23844,38.44309],"type":"Point"}
+}

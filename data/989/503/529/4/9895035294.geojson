@@ -1,0 +1,74 @@
+{
+  "id": 9895035294,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62056,38.57514,126.62056,38.57514",
+    "geom:latitude":38.57514,
+    "geom:longitude":126.62056,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13587505: name \"Kurap'\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13587505"
+        },
+        {
+            "citation":"GeoNames populated place 13587505: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13587505"
+        },
+        {
+            "citation":"GeoNames populated place 13587505: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13587505"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747999 (Sinkye), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13587505
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7d8ff63b730fc1a75a82119a55358f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":9895035294,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035294,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kurap'",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62056,
+    38.57514,
+    126.62056,
+    38.57514
+],
+  "geometry": {"coordinates":[126.62056,38.57514],"type":"Point"}
+}

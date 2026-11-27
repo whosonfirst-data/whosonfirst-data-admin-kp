@@ -1,0 +1,74 @@
+{
+  "id": 9895035478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.5211,39.94524,124.5211,39.94524",
+    "geom:latitude":39.94524,
+    "geom:longitude":124.5211,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13603590: name \"Ponan-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13603590"
+        },
+        {
+            "citation":"GeoNames populated place 13603590: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13603590"
+        },
+        {
+            "citation":"GeoNames populated place 13603590: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13603590"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748105 (Yomju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13603590
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"328568f87fe39bd15e8d759799ddd245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":9895035478,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035478,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ponan-dong",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.5211,
+    39.94524,
+    124.5211,
+    39.94524
+],
+  "geometry": {"coordinates":[124.5211,39.94524],"type":"Point"}
+}

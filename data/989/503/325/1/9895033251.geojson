@@ -1,0 +1,74 @@
+{
+  "id": 9895033251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.22168,40.74237,129.22168,40.74237",
+    "geom:latitude":40.74237,
+    "geom:longitude":129.22168,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12158886: name \"Haks\u014fng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12158886"
+        },
+        {
+            "citation":"GeoNames populated place 12158886: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12158886"
+        },
+        {
+            "citation":"GeoNames populated place 12158886: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12158886"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746957 (Kim Chaek), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746957
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12158886
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"0fb1de9e5ed5c3bef559298b70d41f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746957,
+            "locality_id":9895033251,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895033251,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Haks\u014fng",
+    "wof:parent_id":1108746957,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.22168,
+    40.74237,
+    129.22168,
+    40.74237
+],
+  "geometry": {"coordinates":[129.22168,40.74237],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.72085,38.85899,126.72085,38.85899",
+    "geom:latitude":38.85899,
+    "geom:longitude":126.72085,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6366908: name \"Tundo-ri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6366908"
+        },
+        {
+            "citation":"GeoNames populated place 6366908: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6366908"
+        },
+        {
+            "citation":"GeoNames populated place 6366908: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6366908"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748001 (Sinphyong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6366908
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"67135c67c7b2d5354f89ef9cbad0ceac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748001,
+            "locality_id":9895032559,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895032559,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tundo-ri",
+    "wof:parent_id":1108748001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.72085,
+    38.85899,
+    126.72085,
+    38.85899
+],
+  "geometry": {"coordinates":[126.72085,38.85899],"type":"Point"}
+}

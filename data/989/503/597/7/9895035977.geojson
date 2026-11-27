@@ -1,0 +1,74 @@
+{
+  "id": 9895035977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.28379,38.29782,126.28379,38.29782",
+    "geom:latitude":38.29782,
+    "geom:longitude":126.28379,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13653784: name \"Salgujae\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13653784"
+        },
+        {
+            "citation":"GeoNames populated place 13653784: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13653784"
+        },
+        {
+            "citation":"GeoNames populated place 13653784: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13653784"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747923 (Phyongsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13653784
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4544aad5784cdca5965e9b327a6ca931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":9895035977,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035977,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Salgujae",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.28379,
+    38.29782,
+    126.28379,
+    38.29782
+],
+  "geometry": {"coordinates":[126.28379,38.29782],"type":"Point"}
+}

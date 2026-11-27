@@ -1,0 +1,74 @@
+{
+  "id": 9895033511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07374,39.28161,126.07374,39.28161",
+    "geom:latitude":39.28161,
+    "geom:longitude":126.07374,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539859: name \"Y\u014fn-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539859"
+        },
+        {
+            "citation":"GeoNames populated place 12539859: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539859"
+        },
+        {
+            "citation":"GeoNames populated place 12539859: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539859"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747149 (Songchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539859
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aaa3f6e93a2418526624edf0a99ef0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":9895033511,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033511,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Y\u014fn-dong",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07374,
+    39.28161,
+    126.07374,
+    39.28161
+],
+  "geometry": {"coordinates":[126.07374,39.28161],"type":"Point"}
+}

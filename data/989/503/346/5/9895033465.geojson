@@ -1,0 +1,74 @@
+{
+  "id": 9895033465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.43925,38.8525,126.43925,38.8525",
+    "geom:latitude":38.8525,
+    "geom:longitude":126.43925,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539006: name \"N\u014fm\u016dnmoraejae\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539006"
+        },
+        {
+            "citation":"GeoNames populated place 12539006: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539006"
+        },
+        {
+            "citation":"GeoNames populated place 12539006: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539006"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748111 (Yonsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539006
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aff206ec6c292ae71c7a4c3bc1014f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748111,
+            "locality_id":9895033465,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895033465,
+    "wof:lastmodified":1795734963,
+    "wof:name":"N\u014fm\u016dnmoraejae",
+    "wof:parent_id":1108748111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.43925,
+    38.8525,
+    126.43925,
+    38.8525
+],
+  "geometry": {"coordinates":[126.43925,38.8525],"type":"Point"}
+}

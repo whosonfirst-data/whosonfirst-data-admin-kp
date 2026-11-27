@@ -1,0 +1,74 @@
+{
+  "id": 9895032794,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.44493,42.14359,129.44493,42.14359",
+    "geom:latitude":42.14359,
+    "geom:longitude":129.44493,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12087923: name \"Tae-gok\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12087923"
+        },
+        {
+            "citation":"GeoNames populated place 12087923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12087923"
+        },
+        {
+            "citation":"GeoNames populated place 12087923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12087923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747013 (Musan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12087923
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e5ee47b38e1c503cc43218029200ee14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":9895032794,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032794,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tae-gok",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.44493,
+    42.14359,
+    129.44493,
+    42.14359
+],
+  "geometry": {"coordinates":[129.44493,42.14359],"type":"Point"}
+}

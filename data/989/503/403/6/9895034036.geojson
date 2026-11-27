@@ -1,0 +1,74 @@
+{
+  "id": 9895034036,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.29086,40.14234,127.29086,40.14234",
+    "geom:latitude":40.14234,
+    "geom:longitude":127.29086,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907906: name \"\u016cnbong-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907906"
+        },
+        {
+            "citation":"GeoNames populated place 12907906: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907906"
+        },
+        {
+            "citation":"GeoNames populated place 12907906: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907906"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748109 (Yonggwan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907906
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8ad189830581c417566afc3d9ca9449f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":9895034036,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034036,
+    "wof:lastmodified":1795734963,
+    "wof:name":"\u016cnbong-ni",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.29086,
+    40.14234,
+    127.29086,
+    40.14234
+],
+  "geometry": {"coordinates":[127.29086,40.14234],"type":"Point"}
+}

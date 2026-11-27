@@ -1,0 +1,74 @@
+{
+  "id": 9895033840,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.73517,40.48714,125.73517,40.48714",
+    "geom:latitude":40.48714,
+    "geom:longitude":125.73517,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12788875: name \"S\u014fksangburak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12788875"
+        },
+        {
+            "citation":"GeoNames populated place 12788875: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12788875"
+        },
+        {
+            "citation":"GeoNames populated place 12788875: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12788875"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746971 (Kophung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108746971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12788875
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"41227762e73f4837f79bc3ba45bcc548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746971,
+            "locality_id":9895033840,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033840,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014fksangburak",
+    "wof:parent_id":1108746971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.73517,
+    40.48714,
+    125.73517,
+    40.48714
+],
+  "geometry": {"coordinates":[125.73517,40.48714],"type":"Point"}
+}

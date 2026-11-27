@@ -1,0 +1,75 @@
+{
+  "id": 9895032228,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.13722,38.36028,125.13722,38.36028",
+    "geom:latitude":38.36028,
+    "geom:longitude":125.13722,
+    "gn:population":44274,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1869577: name \"Songhwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1869577"
+        },
+        {
+            "citation":"GeoNames populated place 1869577: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1869577"
+        },
+        {
+            "citation":"GeoNames populated place 1869577: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1869577"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748021 (Songhwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108748021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1869577
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"009ceaa073615278bc0767ac08399cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748021,
+            "locality_id":9895032228,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895032228,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Songhwa",
+    "wof:parent_id":1108748021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.13722,
+    38.36028,
+    125.13722,
+    38.36028
+],
+  "geometry": {"coordinates":[125.13722,38.36028],"type":"Point"}
+}

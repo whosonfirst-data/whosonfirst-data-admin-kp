@@ -1,0 +1,74 @@
+{
+  "id": 9895033312,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57537,37.86286,125.57537,37.86286",
+    "geom:latitude":37.86286,
+    "geom:longitude":125.57537,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12421330: name \"Saeng-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12421330"
+        },
+        {
+            "citation":"GeoNames populated place 12421330: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12421330"
+        },
+        {
+            "citation":"GeoNames populated place 12421330: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12421330"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747817 (Kangryong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12421330
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3c03076f46bab017ca264f66c491f65a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747817,
+            "locality_id":9895033312,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033312,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saeng-gol",
+    "wof:parent_id":1108747817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57537,
+    37.86286,
+    125.57537,
+    37.86286
+],
+  "geometry": {"coordinates":[125.57537,37.86286],"type":"Point"}
+}

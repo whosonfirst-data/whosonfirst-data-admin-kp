@@ -1,0 +1,74 @@
+{
+  "id": 9895035171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.62217,38.59793,126.62217,38.59793",
+    "geom:latitude":38.59793,
+    "geom:longitude":126.62217,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13573358: name \"Saemmultwi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13573358"
+        },
+        {
+            "citation":"GeoNames populated place 13573358: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13573358"
+        },
+        {
+            "citation":"GeoNames populated place 13573358: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13573358"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747999 (Sinkye), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13573358
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f21534d9c68f51edd9af54bc01eeaacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":9895035171,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035171,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saemmultwi",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.62217,
+    38.59793,
+    126.62217,
+    38.59793
+],
+  "geometry": {"coordinates":[126.62217,38.59793],"type":"Point"}
+}

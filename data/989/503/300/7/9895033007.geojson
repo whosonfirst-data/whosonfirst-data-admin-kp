@@ -1,0 +1,74 @@
+{
+  "id": 9895033007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.79508,41.65657,128.79508,41.65657",
+    "geom:latitude":41.65657,
+    "geom:longitude":128.79508,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12108871: name \"Yangg\u014fram\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12108871"
+        },
+        {
+            "citation":"GeoNames populated place 12108871: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12108871"
+        },
+        {
+            "citation":"GeoNames populated place 12108871: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12108871"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747907 (Paekam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12108871
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"efee8c6505c39efed57c02e4ea1a8967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747907,
+            "locality_id":9895033007,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895033007,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yangg\u014fram",
+    "wof:parent_id":1108747907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.79508,
+    41.65657,
+    128.79508,
+    41.65657
+],
+  "geometry": {"coordinates":[128.79508,41.65657],"type":"Point"}
+}

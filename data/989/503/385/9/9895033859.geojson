@@ -1,0 +1,74 @@
+{
+  "id": 9895033859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.56727,40.23635,125.56727,40.23635",
+    "geom:latitude":40.23635,
+    "geom:longitude":125.56727,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809072: name \"Kubong-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809072"
+        },
+        {
+            "citation":"GeoNames populated place 12809072: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809072"
+        },
+        {
+            "citation":"GeoNames populated place 12809072: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809072"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747195 (Tongchang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809072
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9386a129fe51b41a64505eb7a22977a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747195,
+            "locality_id":9895033859,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033859,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kubong-dong",
+    "wof:parent_id":1108747195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.56727,
+    40.23635,
+    125.56727,
+    40.23635
+],
+  "geometry": {"coordinates":[125.56727,40.23635],"type":"Point"}
+}

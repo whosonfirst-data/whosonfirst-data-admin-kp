@@ -1,0 +1,74 @@
+{
+  "id": 9895033032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.50969,41.51354,129.50969,41.51354",
+    "geom:latitude":41.51354,
+    "geom:longitude":129.50969,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12117679: name \"Ko-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12117679"
+        },
+        {
+            "citation":"GeoNames populated place 12117679: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12117679"
+        },
+        {
+            "citation":"GeoNames populated place 12117679: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12117679"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747903 (Orang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12117679
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7612160a044579a5cd324136c61a691b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":9895033032,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895033032,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ko-dong",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.50969,
+    41.51354,
+    129.50969,
+    41.51354
+],
+  "geometry": {"coordinates":[129.50969,41.51354],"type":"Point"}
+}

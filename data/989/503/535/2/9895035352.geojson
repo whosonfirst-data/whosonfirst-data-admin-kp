@@ -1,0 +1,74 @@
+{
+  "id": 9895035352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67468,38.05906,126.67468,38.05906",
+    "geom:latitude":38.05906,
+    "geom:longitude":126.67468,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13587750: name \"Man'gadae\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13587750"
+        },
+        {
+            "citation":"GeoNames populated place 13587750: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13587750"
+        },
+        {
+            "citation":"GeoNames populated place 13587750: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13587750"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746915 (Jangphung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108746915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13587750
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3088ce9d54c5e5b08182caf8995598c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746915,
+            "locality_id":9895035352,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035352,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Man'gadae",
+    "wof:parent_id":1108746915,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67468,
+    38.05906,
+    126.67468,
+    38.05906
+],
+  "geometry": {"coordinates":[126.67468,38.05906],"type":"Point"}
+}

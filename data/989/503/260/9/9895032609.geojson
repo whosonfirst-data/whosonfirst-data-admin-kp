@@ -1,0 +1,74 @@
+{
+  "id": 9895032609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.35659,42.57447,130.35659,42.57447",
+    "geom:latitude":42.57447,
+    "geom:longitude":130.35659,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12083730: name \"Kasa-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12083730"
+        },
+        {
+            "citation":"GeoNames populated place 12083730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12083730"
+        },
+        {
+            "citation":"GeoNames populated place 12083730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12083730"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746997 (Kyonghung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12083730
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"7062d19cf4789ae4b0e734272752c726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746997,
+            "locality_id":9895032609,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032609,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kasa-gol",
+    "wof:parent_id":1108746997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.35659,
+    42.57447,
+    130.35659,
+    42.57447
+],
+  "geometry": {"coordinates":[130.35659,42.57447],"type":"Point"}
+}

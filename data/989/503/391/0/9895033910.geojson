@@ -1,0 +1,74 @@
+{
+  "id": 9895033910,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.61949,40.2533,127.61949,40.2533",
+    "geom:latitude":40.2533,
+    "geom:longitude":127.61949,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809182: name \"Ukk\u014frimal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809182"
+        },
+        {
+            "citation":"GeoNames populated place 12809182: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809182"
+        },
+        {
+            "citation":"GeoNames populated place 12809182: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809182"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747129 (Sinhung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809182
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8d2fe2170b87a4766e945adaad9f3aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747129,
+            "locality_id":9895033910,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033910,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ukk\u014frimal",
+    "wof:parent_id":1108747129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.61949,
+    40.2533,
+    127.61949,
+    40.2533
+],
+  "geometry": {"coordinates":[127.61949,40.2533],"type":"Point"}
+}

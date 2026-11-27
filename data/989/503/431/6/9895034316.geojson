@@ -1,0 +1,74 @@
+{
+  "id": 9895034316,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.9083,40.83062,125.9083,40.83062",
+    "geom:latitude":40.83062,
+    "geom:longitude":125.9083,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13291168: name \"Songgye-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13291168"
+        },
+        {
+            "citation":"GeoNames populated place 13291168: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13291168"
+        },
+        {
+            "citation":"GeoNames populated place 13291168: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13291168"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747227 (Wiwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13291168
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d6a6fc10d33f9345cd5cc19b26b5c68b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":9895034316,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034316,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Songgye-dong",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.9083,
+    40.83062,
+    125.9083,
+    40.83062
+],
+  "geometry": {"coordinates":[125.9083,40.83062],"type":"Point"}
+}

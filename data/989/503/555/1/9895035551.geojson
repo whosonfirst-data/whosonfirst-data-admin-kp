@@ -1,0 +1,74 @@
+{
+  "id": 9895035551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.40798,38.79221,126.40798,38.79221",
+    "geom:latitude":38.79221,
+    "geom:longitude":126.40798,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607360: name \"Changjaed\u014fk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607360"
+        },
+        {
+            "citation":"GeoNames populated place 13607360: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607360"
+        },
+        {
+            "citation":"GeoNames populated place 13607360: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607360"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748029 (Suan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607360
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a3c15666b38c2d10de7f60ecd48c66d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748029,
+            "locality_id":9895035551,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035551,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Changjaed\u014fk",
+    "wof:parent_id":1108748029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.40798,
+    38.79221,
+    126.40798,
+    38.79221
+],
+  "geometry": {"coordinates":[126.40798,38.79221],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895035192,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.3904,39.84002,125.3904,39.84002",
+    "geom:latitude":39.84002,
+    "geom:longitude":125.3904,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13573405: name \"Kunmol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13573405"
+        },
+        {
+            "citation":"GeoNames populated place 13573405: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13573405"
+        },
+        {
+            "citation":"GeoNames populated place 13573405: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13573405"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747183 (Thaechon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13573405
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"582c216ea3725e000c6b04709ec3d7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":9895035192,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035192,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kunmol",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.3904,
+    39.84002,
+    125.3904,
+    39.84002
+],
+  "geometry": {"coordinates":[125.3904,39.84002],"type":"Point"}
+}

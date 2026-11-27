@@ -1,0 +1,74 @@
+{
+  "id": 9895032462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.21558,41.48712,129.21558,41.48712",
+    "geom:latitude":41.48712,
+    "geom:longitude":129.21558,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2049936: name \"Namil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2049936"
+        },
+        {
+            "citation":"GeoNames populated place 2049936: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2049936"
+        },
+        {
+            "citation":"GeoNames populated place 2049936: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2049936"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747001 (Kyongsong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2049936
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c71ccac35aa98051ef39a01021e33918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747001,
+            "locality_id":9895032462,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032462,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Namil",
+    "wof:parent_id":1108747001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.21558,
+    41.48712,
+    129.21558,
+    41.48712
+],
+  "geometry": {"coordinates":[129.21558,41.48712],"type":"Point"}
+}

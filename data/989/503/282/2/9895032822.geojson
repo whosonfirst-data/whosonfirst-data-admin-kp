@@ -1,0 +1,74 @@
+{
+  "id": 9895032822,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.87225,42.83908,129.87225,42.83908",
+    "geom:latitude":42.83908,
+    "geom:longitude":129.87225,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12090441: name \"Kwangmy\u014fng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12090441"
+        },
+        {
+            "citation":"GeoNames populated place 12090441: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12090441"
+        },
+        {
+            "citation":"GeoNames populated place 12090441: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12090441"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747901 (Onsong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12090441
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"23417d2fc4aedeb20271157362471440",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":9895032822,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032822,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kwangmy\u014fng",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.87225,
+    42.83908,
+    129.87225,
+    42.83908
+],
+  "geometry": {"coordinates":[129.87225,42.83908],"type":"Point"}
+}

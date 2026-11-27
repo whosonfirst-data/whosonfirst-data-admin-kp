@@ -1,0 +1,74 @@
+{
+  "id": 9895032428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.34861,42.03306,129.34861,42.03306",
+    "geom:latitude":42.03306,
+    "geom:longitude":129.34861,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2041270: name \"Sangobong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2041270"
+        },
+        {
+            "citation":"GeoNames populated place 2041270: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2041270"
+        },
+        {
+            "citation":"GeoNames populated place 2041270: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2041270"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747013 (Musan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2041270
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5255af40310a03497b7fc5d2b4dfa562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747013,
+            "locality_id":9895032428,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032428,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sangobong",
+    "wof:parent_id":1108747013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.34861,
+    42.03306,
+    129.34861,
+    42.03306
+],
+  "geometry": {"coordinates":[129.34861,42.03306],"type":"Point"}
+}

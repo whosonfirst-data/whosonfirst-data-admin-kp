@@ -1,0 +1,74 @@
+{
+  "id": 9895033880,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.66328,40.12876,125.66328,40.12876",
+    "geom:latitude":40.12876,
+    "geom:longitude":125.66328,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809106: name \"Sangch'am\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809106"
+        },
+        {
+            "citation":"GeoNames populated place 12809106: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809106"
+        },
+        {
+            "citation":"GeoNames populated place 12809106: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809106"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748089 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809106
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"996cb273c706c954eb10725e5c5750c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":9895033880,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033880,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sangch'am",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.66328,
+    40.12876,
+    125.66328,
+    40.12876
+],
+  "geometry": {"coordinates":[125.66328,40.12876],"type":"Point"}
+}

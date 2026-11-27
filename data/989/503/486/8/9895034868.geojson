@@ -1,0 +1,74 @@
+{
+  "id": 9895034868,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93371,38.53781,126.93371,38.53781",
+    "geom:latitude":38.53781,
+    "geom:longitude":126.93371,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13550413: name \"Taehwa-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13550413"
+        },
+        {
+            "citation":"GeoNames populated place 13550413: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13550413"
+        },
+        {
+            "citation":"GeoNames populated place 13550413: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13550413"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746905 (Ichon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13550413
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"16b0c01dbbca57cddd68276ee83de7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746905,
+            "locality_id":9895034868,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034868,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Taehwa-dong",
+    "wof:parent_id":1108746905,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93371,
+    38.53781,
+    126.93371,
+    38.53781
+],
+  "geometry": {"coordinates":[126.93371,38.53781],"type":"Point"}
+}

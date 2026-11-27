@@ -1,0 +1,74 @@
+{
+  "id": 9895033189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.44787,41.34889,126.44787,41.34889",
+    "geom:latitude":41.34889,
+    "geom:longitude":126.44787,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12141923: name \"Simni-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12141923"
+        },
+        {
+            "citation":"GeoNames populated place 12141923: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12141923"
+        },
+        {
+            "citation":"GeoNames populated place 12141923: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12141923"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747007 (Manpho), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12141923
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"204acfd76c64c4911fabf2af2ef899e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747007,
+            "locality_id":9895033189,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033189,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Simni-dong",
+    "wof:parent_id":1108747007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.44787,
+    41.34889,
+    126.44787,
+    41.34889
+],
+  "geometry": {"coordinates":[126.44787,41.34889],"type":"Point"}
+}

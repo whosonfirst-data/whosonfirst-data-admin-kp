@@ -1,0 +1,74 @@
+{
+  "id": 9895033580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.37578,39.45461,125.37578,39.45461",
+    "geom:latitude":39.45461,
+    "geom:longitude":125.37578,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12543391: name \"Konggu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12543391"
+        },
+        {
+            "citation":"GeoNames populated place 12543391: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12543391"
+        },
+        {
+            "citation":"GeoNames populated place 12543391: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12543391"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747011 (Mundok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12543391
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5768fe08fbcd13c12a0e6a3873328295",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747011,
+            "locality_id":9895033580,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033580,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Konggu",
+    "wof:parent_id":1108747011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.37578,
+    39.45461,
+    125.37578,
+    39.45461
+],
+  "geometry": {"coordinates":[125.37578,39.45461],"type":"Point"}
+}

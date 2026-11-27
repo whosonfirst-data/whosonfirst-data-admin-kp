@@ -1,0 +1,74 @@
+{
+  "id": 9895033978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.61818,40.80543,128.61818,40.80543",
+    "geom:latitude":40.80543,
+    "geom:longitude":128.61818,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12906361: name \"Songhwa-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12906361"
+        },
+        {
+            "citation":"GeoNames populated place 12906361: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12906361"
+        },
+        {
+            "citation":"GeoNames populated place 12906361: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12906361"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746881 (Hochon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12906361
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"9eeff10d11ad69298e2bb44b9bebb6c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":9895033978,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033978,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Songhwa-dong",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.61818,
+    40.80543,
+    128.61818,
+    40.80543
+],
+  "geometry": {"coordinates":[128.61818,40.80543],"type":"Point"}
+}

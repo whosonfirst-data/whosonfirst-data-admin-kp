@@ -1,0 +1,74 @@
+{
+  "id": 9895035571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.035,38.68341,126.035,38.68341",
+    "geom:latitude":38.68341,
+    "geom:longitude":126.035,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607443: name \"Ya-ch'on\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607443"
+        },
+        {
+            "citation":"GeoNames populated place 13607443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607443"
+        },
+        {
+            "citation":"GeoNames populated place 13607443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748117 (Yonthan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607443
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"17dd5b6c0d23edf04786274ecb546149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748117,
+            "locality_id":9895035571,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035571,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ya-ch'on",
+    "wof:parent_id":1108748117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.035,
+    38.68341,
+    126.035,
+    38.68341
+],
+  "geometry": {"coordinates":[126.035,38.68341],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032986,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.36932,41.63089,128.36932,41.63089",
+    "geom:latitude":41.63089,
+    "geom:longitude":128.36932,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12108621: name \"Chungch'on\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12108621"
+        },
+        {
+            "citation":"GeoNames populated place 12108621: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12108621"
+        },
+        {
+            "citation":"GeoNames populated place 12108621: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12108621"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747111 (Samjiyon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12108621
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d5b8417fde6b579b9f61db1819057cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747111,
+            "locality_id":9895032986,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895032986,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chungch'on",
+    "wof:parent_id":1108747111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.36932,
+    41.63089,
+    128.36932,
+    41.63089
+],
+  "geometry": {"coordinates":[128.36932,41.63089],"type":"Point"}
+}

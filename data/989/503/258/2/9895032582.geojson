@@ -1,0 +1,74 @@
+{
+  "id": 9895032582,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.72861,39.26993,125.72861,39.26993",
+    "geom:latitude":39.26993,
+    "geom:longitude":125.72861,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11791899: name \"Yongsugol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11791899"
+        },
+        {
+            "citation":"GeoNames populated place 11791899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11791899"
+        },
+        {
+            "citation":"GeoNames populated place 11791899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11791899"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747951 (Pyongyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676611,
+        102191569,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11791899
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5070dd21eba89806ee4eb96b1f3cd9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":9895032582,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":9895032582,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yongsugol",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.72861,
+    39.26993,
+    125.72861,
+    39.26993
+],
+  "geometry": {"coordinates":[125.72861,39.26993],"type":"Point"}
+}

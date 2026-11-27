@@ -1,0 +1,74 @@
+{
+  "id": 9895035207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.67801,38.61527,126.67801,38.61527",
+    "geom:latitude":38.61527,
+    "geom:longitude":126.67801,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13574867: name \"Munhwa-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13574867"
+        },
+        {
+            "citation":"GeoNames populated place 13574867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13574867"
+        },
+        {
+            "citation":"GeoNames populated place 13574867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13574867"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747999 (Sinkye), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13574867
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"29c1955e5a1764dc03e51ce9d1638334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747999,
+            "locality_id":9895035207,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035207,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Munhwa-dong",
+    "wof:parent_id":1108747999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.67801,
+    38.61527,
+    126.67801,
+    38.61527
+],
+  "geometry": {"coordinates":[126.67801,38.61527],"type":"Point"}
+}

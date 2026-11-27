@@ -1,0 +1,74 @@
+{
+  "id": 9895035569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.21192,38.73188,126.21192,38.73188",
+    "geom:latitude":38.73188,
+    "geom:longitude":126.21192,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13607436: name \"Sang-ch'on\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13607436"
+        },
+        {
+            "citation":"GeoNames populated place 13607436: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13607436"
+        },
+        {
+            "citation":"GeoNames populated place 13607436: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13607436"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748029 (Suan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108748029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13607436
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c593751d531aa0455d147eaf44fbe2fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748029,
+            "locality_id":9895035569,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035569,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sang-ch'on",
+    "wof:parent_id":1108748029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.21192,
+    38.73188,
+    126.21192,
+    38.73188
+],
+  "geometry": {"coordinates":[126.21192,38.73188],"type":"Point"}
+}

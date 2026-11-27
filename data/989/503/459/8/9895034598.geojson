@@ -1,0 +1,74 @@
+{
+  "id": 9895034598,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.60317,38.48329,127.60317,38.48329",
+    "geom:latitude":38.48329,
+    "geom:longitude":127.60317,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13522965: name \"Pambau\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13522965"
+        },
+        {
+            "citation":"GeoNames populated place 13522965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13522965"
+        },
+        {
+            "citation":"GeoNames populated place 13522965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13522965"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746967 (Kimhwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13522965
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5a38ff44c3a0c781212d03ab37108188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":9895034598,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034598,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pambau",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.60317,
+    38.48329,
+    127.60317,
+    38.48329
+],
+  "geometry": {"coordinates":[127.60317,38.48329],"type":"Point"}
+}

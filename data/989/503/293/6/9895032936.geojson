@@ -1,0 +1,74 @@
+{
+  "id": 9895032936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.25481,41.00181,129.25481,41.00181",
+    "geom:latitude":41.00181,
+    "geom:longitude":129.25481,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12102737: name \"Sangjidong\u014fgu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12102737"
+        },
+        {
+            "citation":"GeoNames populated place 12102737: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12102737"
+        },
+        {
+            "citation":"GeoNames populated place 12102737: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12102737"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746955 (Kilju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12102737
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a85fd38692e66451b64aa63bacc422ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746955,
+            "locality_id":9895032936,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032936,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sangjidong\u014fgu",
+    "wof:parent_id":1108746955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.25481,
+    41.00181,
+    129.25481,
+    41.00181
+],
+  "geometry": {"coordinates":[129.25481,41.00181],"type":"Point"}
+}

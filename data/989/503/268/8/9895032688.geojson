@@ -1,0 +1,74 @@
+{
+  "id": 9895032688,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.29072,42.27231,130.29072,42.27231",
+    "geom:latitude":42.27231,
+    "geom:longitude":130.29072,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12084900: name \"Unjakku\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12084900"
+        },
+        {
+            "citation":"GeoNames populated place 12084900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12084900"
+        },
+        {
+            "citation":"GeoNames populated place 12084900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12084900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747091 (Rason), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676647,
+        102191569,
+        1108747091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12084900
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"49903cf9570f8cc3a9bf376227fcefeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747091,
+            "locality_id":9895032688,
+            "region_id":85676647
+        }
+    ],
+    "wof:id":9895032688,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Unjakku",
+    "wof:parent_id":1108747091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.29072,
+    42.27231,
+    130.29072,
+    42.27231
+],
+  "geometry": {"coordinates":[130.29072,42.27231],"type":"Point"}
+}

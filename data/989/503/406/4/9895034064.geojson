@@ -1,0 +1,74 @@
+{
+  "id": 9895034064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.52482,40.56735,128.52482,40.56735",
+    "geom:latitude":40.56735,
+    "geom:longitude":128.52482,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12908304: name \"Namhyangch'on\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12908304"
+        },
+        {
+            "citation":"GeoNames populated place 12908304: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12908304"
+        },
+        {
+            "citation":"GeoNames populated place 12908304: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12908304"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748049 (Tanchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12908304
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ddf201ff626e9c5ec2c877ecff31562c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748049,
+            "locality_id":9895034064,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034064,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Namhyangch'on",
+    "wof:parent_id":1108748049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.52482,
+    40.56735,
+    128.52482,
+    40.56735
+],
+  "geometry": {"coordinates":[128.52482,40.56735],"type":"Point"}
+}

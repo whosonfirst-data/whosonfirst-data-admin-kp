@@ -1,0 +1,74 @@
+{
+  "id": 9895032714,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.08377,42.40228,130.08377,42.40228",
+    "geom:latitude":42.40228,
+    "geom:longitude":130.08377,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12086145: name \"Mangi-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12086145"
+        },
+        {
+            "citation":"GeoNames populated place 12086145: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12086145"
+        },
+        {
+            "citation":"GeoNames populated place 12086145: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12086145"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746997 (Kyonghung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12086145
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"581d2146bb7fdfb0a2cca0d7bbe964ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746997,
+            "locality_id":9895032714,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032714,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Mangi-dong",
+    "wof:parent_id":1108746997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.08377,
+    42.40228,
+    130.08377,
+    42.40228
+],
+  "geometry": {"coordinates":[130.08377,42.40228],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034220,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.24075,39.48819,127.24075,39.48819",
+    "geom:latitude":39.48819,
+    "geom:longitude":127.24075,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121942: name \"Yongj\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121942"
+        },
+        {
+            "citation":"GeoNames populated place 13121942: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121942"
+        },
+        {
+            "citation":"GeoNames populated place 13121942: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121942"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747857 (Kumya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121942
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e0909e048d23437b8f926cf823134d85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747857,
+            "locality_id":9895034220,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034220,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yongj\u014fl-li",
+    "wof:parent_id":1108747857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.24075,
+    39.48819,
+    127.24075,
+    39.48819
+],
+  "geometry": {"coordinates":[127.24075,39.48819],"type":"Point"}
+}

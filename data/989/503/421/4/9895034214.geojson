@@ -1,0 +1,74 @@
+{
+  "id": 9895034214,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.68317,39.40413,126.68317,39.40413",
+    "geom:latitude":39.40413,
+    "geom:longitude":126.68317,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13121897: name \"Chibangu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13121897"
+        },
+        {
+            "citation":"GeoNames populated place 13121897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13121897"
+        },
+        {
+            "citation":"GeoNames populated place 13121897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13121897"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747141 (Sinyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13121897
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"94797e5a90a0e72fe851db6870d5a52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747141,
+            "locality_id":9895034214,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895034214,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chibangu",
+    "wof:parent_id":1108747141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.68317,
+    39.40413,
+    126.68317,
+    39.40413
+],
+  "geometry": {"coordinates":[126.68317,39.40413],"type":"Point"}
+}

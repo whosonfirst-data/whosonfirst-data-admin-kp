@@ -1,0 +1,74 @@
+{
+  "id": 9895033736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.76003,40.15729,125.76003,40.15729",
+    "geom:latitude":40.15729,
+    "geom:longitude":125.76003,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12607146: name \"Makkol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12607146"
+        },
+        {
+            "citation":"GeoNames populated place 12607146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12607146"
+        },
+        {
+            "citation":"GeoNames populated place 12607146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12607146"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748089 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12607146
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5af48f01acd8bfef4666f38490d8b6a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":9895033736,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033736,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Makkol",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.76003,
+    40.15729,
+    125.76003,
+    40.15729
+],
+  "geometry": {"coordinates":[125.76003,40.15729],"type":"Point"}
+}

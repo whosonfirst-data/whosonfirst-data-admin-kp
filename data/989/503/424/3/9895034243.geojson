@@ -1,0 +1,74 @@
+{
+  "id": 9895034243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.38683,40.72726,128.38683,40.72726",
+    "geom:latitude":40.72726,
+    "geom:longitude":128.38683,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13137960: name \"Chein-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13137960"
+        },
+        {
+            "citation":"GeoNames populated place 13137960: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13137960"
+        },
+        {
+            "citation":"GeoNames populated place 13137960: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13137960"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746881 (Hochon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108746881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13137960
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"51600cf28070f360cfd7e63d98953d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746881,
+            "locality_id":9895034243,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034243,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chein-dong",
+    "wof:parent_id":1108746881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.38683,
+    40.72726,
+    128.38683,
+    40.72726
+],
+  "geometry": {"coordinates":[128.38683,40.72726],"type":"Point"}
+}

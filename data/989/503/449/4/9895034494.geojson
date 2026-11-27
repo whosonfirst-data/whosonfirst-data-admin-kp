@@ -1,0 +1,74 @@
+{
+  "id": 9895034494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01386,38.5968,128.01386,38.5968",
+    "geom:latitude":38.5968,
+    "geom:longitude":128.01386,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13515842: name \"Chosan-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13515842"
+        },
+        {
+            "citation":"GeoNames populated place 13515842: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13515842"
+        },
+        {
+            "citation":"GeoNames populated place 13515842: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13515842"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747853 (Kumgang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13515842
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"99de7340f0a0af449d8e2bf57c31e3bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":9895034494,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034494,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chosan-dong",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01386,
+    38.5968,
+    128.01386,
+    38.5968
+],
+  "geometry": {"coordinates":[128.01386,38.5968],"type":"Point"}
+}

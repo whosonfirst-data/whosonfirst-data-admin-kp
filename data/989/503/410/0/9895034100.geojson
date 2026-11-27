@@ -1,0 +1,74 @@
+{
+  "id": 9895034100,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.02442,40.07933,126.02442,40.07933",
+    "geom:latitude":40.07933,
+    "geom:longitude":126.02442,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13039632: name \"Chokch'am-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13039632"
+        },
+        {
+            "citation":"GeoNames populated place 13039632: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13039632"
+        },
+        {
+            "citation":"GeoNames populated place 13039632: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13039632"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746901 (Hyangsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108746901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13039632
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1f7aec13298303352dae85a5334edaf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746901,
+            "locality_id":9895034100,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895034100,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chokch'am-dong",
+    "wof:parent_id":1108746901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.02442,
+    40.07933,
+    126.02442,
+    40.07933
+],
+  "geometry": {"coordinates":[126.02442,40.07933],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.07227,42.82818,130.07227,42.82818",
+    "geom:latitude":42.82818,
+    "geom:longitude":130.07227,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12090409: name \"Kinho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12090409"
+        },
+        {
+            "citation":"GeoNames populated place 12090409: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12090409"
+        },
+        {
+            "citation":"GeoNames populated place 12090409: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12090409"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747901 (Onsong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12090409
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2132dd58aaa2d093624e52e960f5d6bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":9895032809,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032809,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kinho",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.07227,
+    42.82818,
+    130.07227,
+    42.82818
+],
+  "geometry": {"coordinates":[130.07227,42.82818],"type":"Point"}
+}

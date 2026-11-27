@@ -1,0 +1,74 @@
+{
+  "id": 9895035204,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.75032,38.64804,126.75032,38.64804",
+    "geom:latitude":38.64804,
+    "geom:longitude":126.75032,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13574860: name \"Me-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13574860"
+        },
+        {
+            "citation":"GeoNames populated place 13574860: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13574860"
+        },
+        {
+            "citation":"GeoNames populated place 13574860: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13574860"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747045 (Phangyo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13574860
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"65ebfad00aee74a9efb89559cf8c807a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747045,
+            "locality_id":9895035204,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895035204,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Me-gol",
+    "wof:parent_id":1108747045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.75032,
+    38.64804,
+    126.75032,
+    38.64804
+],
+  "geometry": {"coordinates":[126.75032,38.64804],"type":"Point"}
+}

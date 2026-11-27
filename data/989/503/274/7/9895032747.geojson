@@ -1,0 +1,74 @@
+{
+  "id": 9895032747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.71921,42.27274,129.71921,42.27274",
+    "geom:latitude":42.27274,
+    "geom:longitude":129.71921,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12086570: name \"Maengga-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12086570"
+        },
+        {
+            "citation":"GeoNames populated place 12086570: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12086570"
+        },
+        {
+            "citation":"GeoNames populated place 12086570: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12086570"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747943 (Puryong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12086570
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"2a7917565c5cff955623e2453cf5bcbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747943,
+            "locality_id":9895032747,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032747,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Maengga-dong",
+    "wof:parent_id":1108747943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.71921,
+    42.27274,
+    129.71921,
+    42.27274
+],
+  "geometry": {"coordinates":[129.71921,42.27274],"type":"Point"}
+}

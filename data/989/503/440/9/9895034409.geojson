@@ -1,0 +1,74 @@
+{
+  "id": 9895034409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.39354,40.79902,129.39354,40.79902",
+    "geom:latitude":40.79902,
+    "geom:longitude":129.39354,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13447422: name \"Yong-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13447422"
+        },
+        {
+            "citation":"GeoNames populated place 13447422: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13447422"
+        },
+        {
+            "citation":"GeoNames populated place 13447422: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13447422"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747763 (Hwadae), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13447422
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"dab24e3e6239325d041a67b5498e4880",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747763,
+            "locality_id":9895034409,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895034409,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yong-dong",
+    "wof:parent_id":1108747763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.39354,
+    40.79902,
+    129.39354,
+    40.79902
+],
+  "geometry": {"coordinates":[129.39354,40.79902],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895033424,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.71993,39.20626,126.71993,39.20626",
+    "geom:latitude":39.20626,
+    "geom:longitude":126.71993,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12505893: name \"Nae-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12505893"
+        },
+        {
+            "citation":"GeoNames populated place 12505893: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12505893"
+        },
+        {
+            "citation":"GeoNames populated place 12505893: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12505893"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748101 (Yangdok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108748101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12505893
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d81c79093dfa9b2111a93b9b7ecb3c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748101,
+            "locality_id":9895033424,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033424,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nae-dong",
+    "wof:parent_id":1108748101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.71993,
+    39.20626,
+    126.71993,
+    39.20626
+],
+  "geometry": {"coordinates":[126.71993,39.20626],"type":"Point"}
+}

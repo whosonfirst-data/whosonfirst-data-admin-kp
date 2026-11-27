@@ -1,0 +1,74 @@
+{
+  "id": 9895032367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.04068,38.52873,126.04068,38.52873",
+    "geom:latitude":38.52873,
+    "geom:longitude":126.04068,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1931543: name \"Kwanhu-dong-ma\u016dl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1931543"
+        },
+        {
+            "citation":"GeoNames populated place 1931543: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1931543"
+        },
+        {
+            "citation":"GeoNames populated place 1931543: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1931543"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747063 (Pongsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931543
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cdafae791335b01fe8a1865e3e1f13ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747063,
+            "locality_id":9895032367,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895032367,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kwanhu-dong-ma\u016dl",
+    "wof:parent_id":1108747063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.04068,
+    38.52873,
+    126.04068,
+    38.52873
+],
+  "geometry": {"coordinates":[126.04068,38.52873],"type":"Point"}
+}

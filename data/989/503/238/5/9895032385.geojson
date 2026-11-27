@@ -1,0 +1,74 @@
+{
+  "id": 9895032385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.34274,38.62885,128.34274,38.62885",
+    "geom:latitude":38.62885,
+    "geom:longitude":128.34274,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1931910: name \"Kamw\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1931910"
+        },
+        {
+            "citation":"GeoNames populated place 1931910: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1931910"
+        },
+        {
+            "citation":"GeoNames populated place 1931910: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1931910"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746975 (Kosong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931910
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8c5b936aae8bc0ff1f779c4a97f5034b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746975,
+            "locality_id":9895032385,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895032385,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kamw\u014fl-li",
+    "wof:parent_id":1108746975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.34274,
+    38.62885,
+    128.34274,
+    38.62885
+],
+  "geometry": {"coordinates":[128.34274,38.62885],"type":"Point"}
+}

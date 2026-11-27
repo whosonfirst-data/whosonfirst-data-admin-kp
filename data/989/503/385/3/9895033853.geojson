@@ -1,0 +1,74 @@
+{
+  "id": 9895033853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.2734,40.3748,126.2734,40.3748",
+    "geom:latitude":40.3748,
+    "geom:longitude":126.2734,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12791341: name \"Chungp'y\u014fng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12791341"
+        },
+        {
+            "citation":"GeoNames populated place 12791341: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12791341"
+        },
+        {
+            "citation":"GeoNames populated place 12791341: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12791341"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747789 (Jonchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12791341
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b1bcfbd04f7ee3d0703ac7c744fa3e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747789,
+            "locality_id":9895033853,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033853,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chungp'y\u014fng",
+    "wof:parent_id":1108747789,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.2734,
+    40.3748,
+    126.2734,
+    40.3748
+],
+  "geometry": {"coordinates":[126.2734,40.3748],"type":"Point"}
+}

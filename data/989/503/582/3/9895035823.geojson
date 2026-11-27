@@ -1,0 +1,74 @@
+{
+  "id": 9895035823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.75095,38.60173,125.75095,38.60173",
+    "geom:latitude":38.60173,
+    "geom:longitude":125.75095,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13629035: name \"Man\u016dlme-ma\u016dl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13629035"
+        },
+        {
+            "citation":"GeoNames populated place 13629035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13629035"
+        },
+        {
+            "citation":"GeoNames populated place 13629035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13629035"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747117 (Sariwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13629035
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c2d5fcb0d0829439ca9a578e0fe75605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747117,
+            "locality_id":9895035823,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035823,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Man\u016dlme-ma\u016dl",
+    "wof:parent_id":1108747117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.75095,
+    38.60173,
+    125.75095,
+    38.60173
+],
+  "geometry": {"coordinates":[125.75095,38.60173],"type":"Point"}
+}

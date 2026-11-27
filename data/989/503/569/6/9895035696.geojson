@@ -1,0 +1,74 @@
+{
+  "id": 9895035696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.81477,38.70213,125.81477,38.70213",
+    "geom:latitude":38.70213,
+    "geom:longitude":125.81477,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13628565: name \"Sat'an-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13628565"
+        },
+        {
+            "citation":"GeoNames populated place 13628565: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13628565"
+        },
+        {
+            "citation":"GeoNames populated place 13628565: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13628565"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747765 (Hwangju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13628565
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ed4154cbb0ddd68c5cb37d0c473fb617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747765,
+            "locality_id":9895035696,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035696,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sat'an-dong",
+    "wof:parent_id":1108747765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.81477,
+    38.70213,
+    125.81477,
+    38.70213
+],
+  "geometry": {"coordinates":[125.81477,38.70213],"type":"Point"}
+}

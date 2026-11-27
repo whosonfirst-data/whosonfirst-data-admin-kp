@@ -1,0 +1,74 @@
+{
+  "id": 9895032480,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.51347,38.94479,127.51347,38.94479",
+    "geom:latitude":38.94479,
+    "geom:longitude":127.51347,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6272713: name \"Chag\u016dn'gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6272713"
+        },
+        {
+            "citation":"GeoNames populated place 6272713: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6272713"
+        },
+        {
+            "citation":"GeoNames populated place 6272713: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6272713"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746845 (Anbyon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272713
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c167db578708162fa59e062d4dc6c311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746845,
+            "locality_id":9895032480,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895032480,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chag\u016dn'gol",
+    "wof:parent_id":1108746845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.51347,
+    38.94479,
+    127.51347,
+    38.94479
+],
+  "geometry": {"coordinates":[127.51347,38.94479],"type":"Point"}
+}

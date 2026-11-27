@@ -1,0 +1,74 @@
+{
+  "id": 9895033625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.18316,39.58613,126.18316,39.58613",
+    "geom:latitude":39.58613,
+    "geom:longitude":126.18316,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12545415: name \"S\u014fhak-tong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12545415"
+        },
+        {
+            "citation":"GeoNames populated place 12545415: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12545415"
+        },
+        {
+            "citation":"GeoNames populated place 12545415: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12545415"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747203 (Tukjang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12545415
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"37137d35572f4e972adc4d3cf8c55aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747203,
+            "locality_id":9895033625,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033625,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014fhak-tong",
+    "wof:parent_id":1108747203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.18316,
+    39.58613,
+    126.18316,
+    39.58613
+],
+  "geometry": {"coordinates":[126.18316,39.58613],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.65361,38.9175,125.65361,38.9175",
+    "geom:latitude":38.9175,
+    "geom:longitude":125.65361,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1878626: name \"Ch\u014fks\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1878626"
+        },
+        {
+            "citation":"GeoNames populated place 1878626: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1878626"
+        },
+        {
+            "citation":"GeoNames populated place 1878626: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1878626"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747815 (Kangnam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878626
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"8f799a1972f85e55bc57eaf935c0fb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747815,
+            "locality_id":9895032269,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895032269,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch\u014fks\u014fl-li",
+    "wof:parent_id":1108747815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.65361,
+    38.9175,
+    125.65361,
+    38.9175
+],
+  "geometry": {"coordinates":[125.65361,38.9175],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895035260,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.58225,38.09734,126.58225,38.09734",
+    "geom:latitude":38.09734,
+    "geom:longitude":126.58225,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13578159: name \"Ch'ils\u014fng-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13578159"
+        },
+        {
+            "citation":"GeoNames populated place 13578159: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13578159"
+        },
+        {
+            "citation":"GeoNames populated place 13578159: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13578159"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747807 (Kaesong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13578159
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"06a3c9518717b95b9e03fa2277e29088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747807,
+            "locality_id":9895035260,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035260,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch'ils\u014fng-gol",
+    "wof:parent_id":1108747807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.58225,
+    38.09734,
+    126.58225,
+    38.09734
+],
+  "geometry": {"coordinates":[126.58225,38.09734],"type":"Point"}
+}

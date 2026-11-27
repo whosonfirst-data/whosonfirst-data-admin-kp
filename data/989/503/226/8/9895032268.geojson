@@ -1,0 +1,74 @@
+{
+  "id": 9895032268,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.30342,39.5288,126.30342,39.5288",
+    "geom:latitude":39.5288,
+    "geom:longitude":126.30342,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1878434: name \"Ch\u014fnggwang-ni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1878434"
+        },
+        {
+            "citation":"GeoNames populated place 1878434: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1878434"
+        },
+        {
+            "citation":"GeoNames populated place 1878434: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1878434"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747069 (Pukchang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1878434
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"76d22b5828d2131f8c8f270de5c82e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747069,
+            "locality_id":9895032268,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895032268,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ch\u014fnggwang-ni",
+    "wof:parent_id":1108747069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.30342,
+    39.5288,
+    126.30342,
+    39.5288
+],
+  "geometry": {"coordinates":[126.30342,39.5288],"type":"Point"}
+}

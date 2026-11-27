@@ -1,0 +1,74 @@
+{
+  "id": 9895034297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57633,40.7605,125.57633,40.7605",
+    "geom:latitude":40.7605,
+    "geom:longitude":125.57633,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13289466: name \"Yongy\u014fl-li\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13289466"
+        },
+        {
+            "citation":"GeoNames populated place 13289466: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13289466"
+        },
+        {
+            "citation":"GeoNames populated place 13289466: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13289466"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747225 (Usi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13289466
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"c67b6c24b3bb499cb582988f9281293d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747225,
+            "locality_id":9895034297,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034297,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yongy\u014fl-li",
+    "wof:parent_id":1108747225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57633,
+    40.7605,
+    125.57633,
+    40.7605
+],
+  "geometry": {"coordinates":[125.57633,40.7605],"type":"Point"}
+}

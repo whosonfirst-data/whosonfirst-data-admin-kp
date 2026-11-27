@@ -1,0 +1,74 @@
+{
+  "id": 9895032707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"130.18776,42.12396,130.18776,42.12396",
+    "geom:latitude":42.12396,
+    "geom:longitude":130.18776,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12086110: name \"Tongs\u014fkkumi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12086110"
+        },
+        {
+            "citation":"GeoNames populated place 12086110: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12086110"
+        },
+        {
+            "citation":"GeoNames populated place 12086110: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12086110"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746863 (Chongjin), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108746863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12086110
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"4d83aa2eb5b85bd393de5348a36eddb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746863,
+            "locality_id":9895032707,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032707,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tongs\u014fkkumi",
+    "wof:parent_id":1108746863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    130.18776,
+    42.12396,
+    130.18776,
+    42.12396
+],
+  "geometry": {"coordinates":[130.18776,42.12396],"type":"Point"}
+}

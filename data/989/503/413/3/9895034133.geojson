@@ -1,0 +1,74 @@
+{
+  "id": 9895034133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.87426,40.08177,126.87426,40.08177",
+    "geom:latitude":40.08177,
+    "geom:longitude":126.87426,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13058954: name \"Inch'\u014f-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13058954"
+        },
+        {
+            "citation":"GeoNames populated place 13058954: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13058954"
+        },
+        {
+            "citation":"GeoNames populated place 13058954: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13058954"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748047 (Taehung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108748047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13058954
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ac77519f0d519f1bf6c66f3d503d0b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748047,
+            "locality_id":9895034133,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895034133,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Inch'\u014f-dong",
+    "wof:parent_id":1108748047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.87426,
+    40.08177,
+    126.87426,
+    40.08177
+],
+  "geometry": {"coordinates":[126.87426,40.08177],"type":"Point"}
+}

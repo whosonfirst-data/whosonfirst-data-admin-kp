@@ -1,0 +1,74 @@
+{
+  "id": 9895036155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.78789,40.81733,126.78789,40.81733",
+    "geom:latitude":40.81733,
+    "geom:longitude":126.78789,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13658112: name \"Saeatt\u014fk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13658112"
+        },
+        {
+            "citation":"GeoNames populated place 13658112: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13658112"
+        },
+        {
+            "citation":"GeoNames populated place 13658112: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13658112"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748019 (Songgan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108748019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13658112
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e62234c08cba49e6e2d25475ce8cd3f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748019,
+            "locality_id":9895036155,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895036155,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saeatt\u014fk",
+    "wof:parent_id":1108748019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.78789,
+    40.81733,
+    126.78789,
+    40.81733
+],
+  "geometry": {"coordinates":[126.78789,40.81733],"type":"Point"}
+}

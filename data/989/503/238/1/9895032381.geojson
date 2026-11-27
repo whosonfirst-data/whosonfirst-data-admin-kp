@@ -1,0 +1,74 @@
+{
+  "id": 9895032381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0096,38.71711,128.0096,38.71711",
+    "geom:latitude":38.71711,
+    "geom:longitude":128.0096,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1931811: name \"Saegol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1931811"
+        },
+        {
+            "citation":"GeoNames populated place 1931811: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1931811"
+        },
+        {
+            "citation":"GeoNames populated place 1931811: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1931811"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747853 (Kumgang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931811
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f47918e503d69915714c339d64d0160f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":9895032381,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895032381,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Saegol",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0096,
+    38.71711,
+    128.0096,
+    38.71711
+],
+  "geometry": {"coordinates":[128.0096,38.71711],"type":"Point"}
+}

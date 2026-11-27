@@ -1,0 +1,74 @@
+{
+  "id": 9895033513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.10383,39.3553,126.10383,39.3553",
+    "geom:latitude":39.3553,
+    "geom:longitude":126.10383,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539861: name \"Yongs\u016dng\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539861"
+        },
+        {
+            "citation":"GeoNames populated place 12539861: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539861"
+        },
+        {
+            "citation":"GeoNames populated place 12539861: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539861"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748091 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108748091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539861
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"45b4d207c3a4256123a8c13c2984ab38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748091,
+            "locality_id":9895033513,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033513,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Yongs\u016dng",
+    "wof:parent_id":1108748091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.10383,
+    39.3553,
+    126.10383,
+    39.3553
+],
+  "geometry": {"coordinates":[126.10383,39.3553],"type":"Point"}
+}

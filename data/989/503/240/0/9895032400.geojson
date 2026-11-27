@@ -1,0 +1,74 @@
+{
+  "id": 9895032400,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.07196,38.33511,126.07196,38.33511",
+    "geom:latitude":38.33511,
+    "geom:longitude":126.07196,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1948141: name \"Sohwa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1948141"
+        },
+        {
+            "citation":"GeoNames populated place 1948141: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1948141"
+        },
+        {
+            "citation":"GeoNames populated place 1948141: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1948141"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747093 (Rinsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1948141
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"007b9f4125ab6712bffc1321391e11e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747093,
+            "locality_id":9895032400,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895032400,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sohwa",
+    "wof:parent_id":1108747093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.07196,
+    38.33511,
+    126.07196,
+    38.33511
+],
+  "geometry": {"coordinates":[126.07196,38.33511],"type":"Point"}
+}

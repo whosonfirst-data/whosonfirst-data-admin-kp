@@ -1,0 +1,74 @@
+{
+  "id": 9895035649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.49923,39.88365,124.49923,39.88365",
+    "geom:latitude":39.88365,
+    "geom:longitude":124.49923,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13623975: name \"Nam-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13623975"
+        },
+        {
+            "citation":"GeoNames populated place 13623975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13623975"
+        },
+        {
+            "citation":"GeoNames populated place 13623975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13623975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748105 (Yomju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13623975
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"aaa8fab375b9a577fd99ddebe068f1cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":9895035649,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035649,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Nam-gol",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.49923,
+    39.88365,
+    124.49923,
+    39.88365
+],
+  "geometry": {"coordinates":[124.49923,39.88365],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.08364,38.95892,127.08364,38.95892",
+    "geom:latitude":38.95892,
+    "geom:longitude":127.08364,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13540042: name \"Tojang-gol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13540042"
+        },
+        {
+            "citation":"GeoNames populated place 13540042: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13540042"
+        },
+        {
+            "citation":"GeoNames populated place 13540042: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13540042"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747065 (Popdong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13540042
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"26ac149960258ca7c71118b807110873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747065,
+            "locality_id":9895034727,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034727,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tojang-gol",
+    "wof:parent_id":1108747065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.08364,
+    38.95892,
+    127.08364,
+    38.95892
+],
+  "geometry": {"coordinates":[127.08364,38.95892],"type":"Point"}
+}

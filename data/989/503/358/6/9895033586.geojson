@@ -1,0 +1,74 @@
+{
+  "id": 9895033586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.4311,39.28148,125.4311,39.28148",
+    "geom:latitude":39.28148,
+    "geom:longitude":125.4311,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12543401: name \"Kkonna-ri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12543401"
+        },
+        {
+            "citation":"GeoNames populated place 12543401: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12543401"
+        },
+        {
+            "citation":"GeoNames populated place 12543401: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12543401"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747925 (Phyongwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12543401
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"63e31028088885ac3f2a5629e7f12bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747925,
+            "locality_id":9895033586,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033586,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kkonna-ri",
+    "wof:parent_id":1108747925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.4311,
+    39.28148,
+    125.4311,
+    39.28148
+],
+  "geometry": {"coordinates":[125.4311,39.28148],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.59059,39.06941,125.59059,39.06941",
+    "geom:latitude":39.06941,
+    "geom:longitude":125.59059,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11791895: name \"Hollo-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11791895"
+        },
+        {
+            "citation":"GeoNames populated place 11791895: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11791895"
+        },
+        {
+            "citation":"GeoNames populated place 11791895: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11791895"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747951 (Pyongyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676611,
+        102191569,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11791895
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"57f81b2b2526589a6ae052c2705cb525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":9895032581,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":9895032581,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hollo-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.59059,
+    39.06941,
+    125.59059,
+    39.06941
+],
+  "geometry": {"coordinates":[125.59059,39.06941],"type":"Point"}
+}

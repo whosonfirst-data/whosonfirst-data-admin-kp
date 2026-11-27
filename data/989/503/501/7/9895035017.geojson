@@ -1,0 +1,74 @@
+{
+  "id": 9895035017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.48332,39.96582,125.48332,39.96582",
+    "geom:latitude":39.96582,
+    "geom:longitude":125.48332,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13569811: name \"Ky\u014fngsang-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13569811"
+        },
+        {
+            "citation":"GeoNames populated place 13569811: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13569811"
+        },
+        {
+            "citation":"GeoNames populated place 13569811: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13569811"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747183 (Thaechon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108747183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13569811
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3a23c67a279c226a9445aecd614acf9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747183,
+            "locality_id":9895035017,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035017,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ky\u014fngsang-dong",
+    "wof:parent_id":1108747183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.48332,
+    39.96582,
+    125.48332,
+    39.96582
+],
+  "geometry": {"coordinates":[125.48332,39.96582],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895035475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"124.51751,39.97547,124.51751,39.97547",
+    "geom:latitude":39.97547,
+    "geom:longitude":124.51751,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13603584: name \"W\u014fnp'ung-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13603584"
+        },
+        {
+            "citation":"GeoNames populated place 13603584: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13603584"
+        },
+        {
+            "citation":"GeoNames populated place 13603584: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13603584"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748105 (Yomju), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13603584
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"fe51f4f910d5b865c6e66abf6bf0a524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748105,
+            "locality_id":9895035475,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895035475,
+    "wof:lastmodified":1795734963,
+    "wof:name":"W\u014fnp'ung-dong",
+    "wof:parent_id":1108748105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    124.51751,
+    39.97547,
+    124.51751,
+    39.97547
+],
+  "geometry": {"coordinates":[124.51751,39.97547],"type":"Point"}
+}

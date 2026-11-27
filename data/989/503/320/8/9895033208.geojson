@@ -1,0 +1,74 @@
+{
+  "id": 9895033208,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57365,41.4962,126.57365,41.4962",
+    "geom:latitude":41.4962,
+    "geom:longitude":126.57365,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12144423: name \"Changhang-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12144423"
+        },
+        {
+            "citation":"GeoNames populated place 12144423: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12144423"
+        },
+        {
+            "citation":"GeoNames populated place 12144423: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12144423"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746919 (Jasong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108746919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12144423
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5e256de69f50a5fbe51cfb99574c208c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746919,
+            "locality_id":9895033208,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895033208,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Changhang-dong",
+    "wof:parent_id":1108746919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57365,
+    41.4962,
+    126.57365,
+    41.4962
+],
+  "geometry": {"coordinates":[126.57365,41.4962],"type":"Point"}
+}

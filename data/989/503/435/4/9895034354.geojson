@@ -1,0 +1,74 @@
+{
+  "id": 9895034354,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.17918,41.39748,128.17918,41.39748",
+    "geom:latitude":41.39748,
+    "geom:longitude":128.17918,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13321101: name \"Y\u014fnbong Il-tong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13321101"
+        },
+        {
+            "citation":"GeoNames populated place 13321101: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13321101"
+        },
+        {
+            "citation":"GeoNames populated place 13321101: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13321101"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747113 (Samsu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13321101
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"cb6a8fbbbb134beecfbd452ad21ac1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747113,
+            "locality_id":9895034354,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895034354,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Y\u014fnbong Il-tong",
+    "wof:parent_id":1108747113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.17918,
+    41.39748,
+    128.17918,
+    41.39748
+],
+  "geometry": {"coordinates":[128.17918,41.39748],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895033866,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.7174,40.20954,125.7174,40.20954",
+    "geom:latitude":40.20954,
+    "geom:longitude":125.7174,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12809082: name \"T\u016dngd\u014fngmal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12809082"
+        },
+        {
+            "citation":"GeoNames populated place 12809082: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12809082"
+        },
+        {
+            "citation":"GeoNames populated place 12809082: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12809082"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748089 (Unsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12809082
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"5ff5669b0c0fc517565f55a7fcb31b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748089,
+            "locality_id":9895033866,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895033866,
+    "wof:lastmodified":1795734963,
+    "wof:name":"T\u016dngd\u014fngmal",
+    "wof:parent_id":1108748089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.7174,
+    40.20954,
+    125.7174,
+    40.20954
+],
+  "geometry": {"coordinates":[125.7174,40.20954],"type":"Point"}
+}

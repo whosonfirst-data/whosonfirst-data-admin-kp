@@ -1,0 +1,74 @@
+{
+  "id": 9895032887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.47805,41.32311,129.47805,41.32311",
+    "geom:latitude":41.32311,
+    "geom:longitude":129.47805,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12094576: name \"Hadaesunam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12094576"
+        },
+        {
+            "citation":"GeoNames populated place 12094576: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12094576"
+        },
+        {
+            "citation":"GeoNames populated place 12094576: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12094576"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747903 (Orang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12094576
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ad11f74e9d3df3fd54e81c9b25d5ba9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747903,
+            "locality_id":9895032887,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032887,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hadaesunam",
+    "wof:parent_id":1108747903,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.47805,
+    41.32311,
+    129.47805,
+    41.32311
+],
+  "geometry": {"coordinates":[129.47805,41.32311],"type":"Point"}
+}

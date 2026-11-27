@@ -1,0 +1,74 @@
+{
+  "id": 9895033462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.57251,39.73524,126.57251,39.73524",
+    "geom:latitude":39.73524,
+    "geom:longitude":126.57251,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535551: name \"Sup'o-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535551"
+        },
+        {
+            "citation":"GeoNames populated place 12535551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535551"
+        },
+        {
+            "citation":"GeoNames populated place 12535551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535551"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747005 (Maengsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535551
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a1a764ac86fddd1853e7901fe95cfc45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747005,
+            "locality_id":9895033462,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033462,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sup'o-dong",
+    "wof:parent_id":1108747005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.57251,
+    39.73524,
+    126.57251,
+    39.73524
+],
+  "geometry": {"coordinates":[126.57251,39.73524],"type":"Point"}
+}

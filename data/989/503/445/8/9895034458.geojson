@@ -1,0 +1,74 @@
+{
+  "id": 9895034458,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.0867,40.54471,128.0867,40.54471",
+    "geom:latitude":40.54471,
+    "geom:longitude":128.0867,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13455866: name \"Sangil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13455866"
+        },
+        {
+            "citation":"GeoNames populated place 13455866: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13455866"
+        },
+        {
+            "citation":"GeoNames populated place 13455866: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13455866"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747193 (Toksong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13455866
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"25e415e19b51f6c5afbf21bcee0c8bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747193,
+            "locality_id":9895034458,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034458,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sangil",
+    "wof:parent_id":1108747193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.0867,
+    40.54471,
+    128.0867,
+    40.54471
+],
+  "geometry": {"coordinates":[128.0867,40.54471],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034004,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.44559,40.01252,127.44559,40.01252",
+    "geom:latitude":40.01252,
+    "geom:longitude":127.44559,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12907872: name \"Toksan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12907872"
+        },
+        {
+            "citation":"GeoNames populated place 12907872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12907872"
+        },
+        {
+            "citation":"GeoNames populated place 12907872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12907872"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748109 (Yonggwan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108748109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12907872
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"f3af88e4c10ffc1676ac03c46934b83e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748109,
+            "locality_id":9895034004,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895034004,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Toksan",
+    "wof:parent_id":1108748109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.44559,
+    40.01252,
+    127.44559,
+    40.01252
+],
+  "geometry": {"coordinates":[127.44559,40.01252],"type":"Point"}
+}

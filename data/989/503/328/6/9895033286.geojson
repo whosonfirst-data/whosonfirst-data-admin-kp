@@ -1,0 +1,74 @@
+{
+  "id": 9895033286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.17001,38.59372,125.17001,38.59372",
+    "geom:latitude":38.59372,
+    "geom:longitude":125.17001,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12279178: name \"S\u014fngjae\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12279178"
+        },
+        {
+            "citation":"GeoNames populated place 12279178: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12279178"
+        },
+        {
+            "citation":"GeoNames populated place 12279178: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12279178"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747219 (Unryul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676605,
+        102191569,
+        1108747219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12279178
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"daf74e4a9a519807d262eab89c96d7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747219,
+            "locality_id":9895033286,
+            "region_id":85676605
+        }
+    ],
+    "wof:id":9895033286,
+    "wof:lastmodified":1795734963,
+    "wof:name":"S\u014fngjae",
+    "wof:parent_id":1108747219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.17001,
+    38.59372,
+    125.17001,
+    38.59372
+],
+  "geometry": {"coordinates":[125.17001,38.59372],"type":"Point"}
+}

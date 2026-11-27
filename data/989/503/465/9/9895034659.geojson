@@ -1,0 +1,74 @@
+{
+  "id": 9895034659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.33795,38.98215,127.33795,38.98215",
+    "geom:latitude":38.98215,
+    "geom:longitude":127.33795,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13533118: name \"Hak-kol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13533118"
+        },
+        {
+            "citation":"GeoNames populated place 13533118: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13533118"
+        },
+        {
+            "citation":"GeoNames populated place 13533118: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13533118"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746845 (Anbyon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13533118
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"3bfcc9da118c3ff520d8fd1ce3e0d3d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746845,
+            "locality_id":9895034659,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034659,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hak-kol",
+    "wof:parent_id":1108746845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.33795,
+    38.98215,
+    127.33795,
+    38.98215
+],
+  "geometry": {"coordinates":[127.33795,38.98215],"type":"Point"}
+}

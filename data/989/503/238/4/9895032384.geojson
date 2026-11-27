@@ -1,0 +1,74 @@
+{
+  "id": 9895032384,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.31203,38.65447,128.31203,38.65447",
+    "geom:latitude":38.65447,
+    "geom:longitude":128.31203,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1931900: name \"Chin-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1931900"
+        },
+        {
+            "citation":"GeoNames populated place 1931900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1931900"
+        },
+        {
+            "citation":"GeoNames populated place 1931900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1931900"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746975 (Kosong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1931900
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a05164a6325511e821fa9c4c1bb8caf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746975,
+            "locality_id":9895032384,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895032384,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Chin-dong",
+    "wof:parent_id":1108746975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.31203,
+    38.65447,
+    128.31203,
+    38.65447
+],
+  "geometry": {"coordinates":[128.31203,38.65447],"type":"Point"}
+}

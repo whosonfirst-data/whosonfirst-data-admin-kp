@@ -1,0 +1,74 @@
+{
+  "id": 9895034330,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.0792,40.95931,126.0792,40.95931",
+    "geom:latitude":40.95931,
+    "geom:longitude":126.0792,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13292024: name \"Amhoe-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13292024"
+        },
+        {
+            "citation":"GeoNames populated place 13292024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13292024"
+        },
+        {
+            "citation":"GeoNames populated place 13292024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13292024"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747227 (Wiwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13292024
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"271d8d6f3d32aa9db4d37b3d8fccf9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":9895034330,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034330,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Amhoe-dong",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.0792,
+    40.95931,
+    126.0792,
+    40.95931
+],
+  "geometry": {"coordinates":[126.0792,40.95931],"type":"Point"}
+}

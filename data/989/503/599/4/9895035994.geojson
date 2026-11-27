@@ -1,0 +1,74 @@
+{
+  "id": 9895035994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.09868,38.45276,126.09868,38.45276",
+    "geom:latitude":38.45276,
+    "geom:longitude":126.09868,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13655244: name \"Hoektari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13655244"
+        },
+        {
+            "citation":"GeoNames populated place 13655244: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13655244"
+        },
+        {
+            "citation":"GeoNames populated place 13655244: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13655244"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747145 (Sohung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13655244
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"44887207b09ec8753a81f1dedd6a84e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747145,
+            "locality_id":9895035994,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035994,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Hoektari",
+    "wof:parent_id":1108747145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.09868,
+    38.45276,
+    126.09868,
+    38.45276
+],
+  "geometry": {"coordinates":[126.09868,38.45276],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895034485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.01068,38.55181,128.01068,38.55181",
+    "geom:latitude":38.55181,
+    "geom:longitude":128.01068,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13515736: name \"Solgol\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13515736"
+        },
+        {
+            "citation":"GeoNames populated place 13515736: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13515736"
+        },
+        {
+            "citation":"GeoNames populated place 13515736: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13515736"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747853 (Kumgang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13515736
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"102bb1f8ca0cab7280fb8bff82b8e653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747853,
+            "locality_id":9895034485,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034485,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Solgol",
+    "wof:parent_id":1108747853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.01068,
+    38.55181,
+    128.01068,
+    38.55181
+],
+  "geometry": {"coordinates":[128.01068,38.55181],"type":"Point"}
+}

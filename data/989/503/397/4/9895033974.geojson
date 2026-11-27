@@ -1,0 +1,82 @@
+{
+  "id": 9895033974,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.57759,38.71793,125.57759,38.71793",
+    "geom:latitude":38.71793,
+    "geom:longitude":125.57759,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12903171: name \"K\u014fmsanyaksu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12903171"
+        },
+        {
+            "citation":"GeoNames populated place 12903171: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12903171"
+        },
+        {
+            "citation":"GeoNames populated place 12903171: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12903171"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747021 (Nampho), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        421199693,
+        1108747021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12903171
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ef53883d0de53d7c327fc76e988b6377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":9895033974,
+            "region_id":85676637
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747021,
+            "locality_id":9895033974,
+            "region_id":421199693
+        }
+    ],
+    "wof:id":9895033974,
+    "wof:lastmodified":1795734963,
+    "wof:name":"K\u014fmsanyaksu",
+    "wof:parent_id":1108747021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.57759,
+    38.71793,
+    125.57759,
+    38.71793
+],
+  "geometry": {"coordinates":[125.57759,38.71793],"type":"Point"}
+}

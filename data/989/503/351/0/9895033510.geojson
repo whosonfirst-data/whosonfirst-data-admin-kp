@@ -1,0 +1,74 @@
+{
+  "id": 9895033510,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.05133,39.30382,126.05133,39.30382",
+    "geom:latitude":39.30382,
+    "geom:longitude":126.05133,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539858: name \"Tolmadang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539858"
+        },
+        {
+            "citation":"GeoNames populated place 12539858: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539858"
+        },
+        {
+            "citation":"GeoNames populated place 12539858: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539858"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747149 (Songchon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676637,
+        102191569,
+        1108747149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539858
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e313c4b2a8108803487c4db5cb29368c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747149,
+            "locality_id":9895033510,
+            "region_id":85676637
+        }
+    ],
+    "wof:id":9895033510,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tolmadang",
+    "wof:parent_id":1108747149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.05133,
+    39.30382,
+    126.05133,
+    39.30382
+],
+  "geometry": {"coordinates":[126.05133,39.30382],"type":"Point"}
+}

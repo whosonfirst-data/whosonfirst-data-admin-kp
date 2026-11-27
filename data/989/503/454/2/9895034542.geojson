@@ -1,0 +1,74 @@
+{
+  "id": 9895034542,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.77796,38.41545,127.77796,38.41545",
+    "geom:latitude":38.41545,
+    "geom:longitude":127.77796,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13519565: name \"Aegu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13519565"
+        },
+        {
+            "citation":"GeoNames populated place 13519565: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13519565"
+        },
+        {
+            "citation":"GeoNames populated place 13519565: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13519565"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108746967 (Kimhwa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108746967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13519565
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"52822725a151ceb6115faf50bca82ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108746967,
+            "locality_id":9895034542,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034542,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Aegu",
+    "wof:parent_id":1108746967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.77796,
+    38.41545,
+    127.77796,
+    38.41545
+],
+  "geometry": {"coordinates":[127.77796,38.41545],"type":"Point"}
+}

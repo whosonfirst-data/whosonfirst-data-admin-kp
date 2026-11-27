@@ -1,0 +1,74 @@
+{
+  "id": 9895033024,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.65032,41.28011,128.65032,41.28011",
+    "geom:latitude":41.28011,
+    "geom:longitude":128.65032,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12109362: name \"Subandongjung-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12109362"
+        },
+        {
+            "citation":"GeoNames populated place 12109362: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12109362"
+        },
+        {
+            "citation":"GeoNames populated place 12109362: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12109362"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747209 (Unhung), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108747209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12109362
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"a70f380c632e7743efa8e997143e41aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747209,
+            "locality_id":9895033024,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895033024,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Subandongjung-dong",
+    "wof:parent_id":1108747209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.65032,
+    41.28011,
+    128.65032,
+    41.28011
+],
+  "geometry": {"coordinates":[128.65032,41.28011],"type":"Point"}
+}

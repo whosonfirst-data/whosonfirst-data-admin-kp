@@ -1,0 +1,74 @@
+{
+  "id": 9895034460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.23659,40.22089,125.23659,40.22089",
+    "geom:latitude":40.22089,
+    "geom:longitude":125.23659,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13456128: name \"Pohy\u014fn\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13456128"
+        },
+        {
+            "citation":"GeoNames populated place 13456128: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13456128"
+        },
+        {
+            "citation":"GeoNames populated place 13456128: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13456128"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748041 (Taegwan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676633,
+        102191569,
+        1108748041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13456128
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"b60a75788808add26470f85e692e01fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748041,
+            "locality_id":9895034460,
+            "region_id":85676633
+        }
+    ],
+    "wof:id":9895034460,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pohy\u014fn",
+    "wof:parent_id":1108748041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.23659,
+    40.22089,
+    125.23659,
+    40.22089
+],
+  "geometry": {"coordinates":[125.23659,40.22089],"type":"Point"}
+}

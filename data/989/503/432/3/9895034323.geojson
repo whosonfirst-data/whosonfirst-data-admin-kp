@@ -1,0 +1,74 @@
+{
+  "id": 9895034323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.00307,40.92271,126.00307,40.92271",
+    "geom:latitude":40.92271,
+    "geom:longitude":126.00307,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13292014: name \"Pakkubi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13292014"
+        },
+        {
+            "citation":"GeoNames populated place 13292014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13292014"
+        },
+        {
+            "citation":"GeoNames populated place 13292014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13292014"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747227 (Wiwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108747227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13292014
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"ca8c6788067be4f9d278755630551ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747227,
+            "locality_id":9895034323,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034323,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Pakkubi",
+    "wof:parent_id":1108747227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.00307,
+    40.92271,
+    126.00307,
+    40.92271
+],
+  "geometry": {"coordinates":[126.00307,40.92271],"type":"Point"}
+}

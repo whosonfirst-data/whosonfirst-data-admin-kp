@@ -1,0 +1,74 @@
+{
+  "id": 9895032251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.8,39.01667,125.8,39.01667",
+    "geom:latitude":39.01667,
+    "geom:longitude":125.8,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1874165: name \"Munsin-dong\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1874165"
+        },
+        {
+            "citation":"GeoNames populated place 1874165: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1874165"
+        },
+        {
+            "citation":"GeoNames populated place 1874165: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1874165"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747951 (Pyongyang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676611,
+        102191569,
+        1108747951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1874165
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6e309cc663472cd6de34dee65ec1aad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747951,
+            "locality_id":9895032251,
+            "region_id":85676611
+        }
+    ],
+    "wof:id":9895032251,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Munsin-dong",
+    "wof:parent_id":1108747951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.8,
+    39.01667,
+    125.8,
+    39.01667
+],
+  "geometry": {"coordinates":[125.8,39.01667],"type":"Point"}
+}

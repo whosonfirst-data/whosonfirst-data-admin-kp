@@ -1,0 +1,74 @@
+{
+  "id": 9895035943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.37759,38.39006,126.37759,38.39006",
+    "geom:latitude":38.39006,
+    "geom:longitude":126.37759,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13643790: name \"Ukk\u014fllim\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13643790"
+        },
+        {
+            "citation":"GeoNames populated place 13643790: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13643790"
+        },
+        {
+            "citation":"GeoNames populated place 13643790: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13643790"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747923 (Phyongsan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676603,
+        102191569,
+        1108747923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13643790
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"33802f7c77ef5da6a0be9e93ec980c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747923,
+            "locality_id":9895035943,
+            "region_id":85676603
+        }
+    ],
+    "wof:id":9895035943,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Ukk\u014fllim",
+    "wof:parent_id":1108747923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.37759,
+    38.39006,
+    126.37759,
+    38.39006
+],
+  "geometry": {"coordinates":[126.37759,38.39006],"type":"Point"}
+}

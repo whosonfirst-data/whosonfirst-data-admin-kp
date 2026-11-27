@@ -1,0 +1,74 @@
+{
+  "id": 9895032816,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"129.87265,42.81778,129.87265,42.81778",
+    "geom:latitude":42.81778,
+    "geom:longitude":129.87265,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12090431: name \"N\u016dptegi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12090431"
+        },
+        {
+            "citation":"GeoNames populated place 12090431: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12090431"
+        },
+        {
+            "citation":"GeoNames populated place 12090431: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12090431"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747901 (Onsong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676615,
+        102191569,
+        1108747901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12090431
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"77041ee4a04d4b62558f5e3f3f7796e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747901,
+            "locality_id":9895032816,
+            "region_id":85676615
+        }
+    ],
+    "wof:id":9895032816,
+    "wof:lastmodified":1795734963,
+    "wof:name":"N\u016dptegi",
+    "wof:parent_id":1108747901,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    129.87265,
+    42.81778,
+    129.87265,
+    42.81778
+],
+  "geometry": {"coordinates":[129.87265,42.81778],"type":"Point"}
+}

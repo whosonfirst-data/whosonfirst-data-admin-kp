@@ -1,0 +1,74 @@
+{
+  "id": 9895034939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"126.93602,38.30605,126.93602,38.30605",
+    "geom:latitude":38.30605,
+    "geom:longitude":126.93602,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13558113: name \"Tongch'imi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13558113"
+        },
+        {
+            "citation":"GeoNames populated place 13558113: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13558113"
+        },
+        {
+            "citation":"GeoNames populated place 13558113: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13558113"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747727 (Cholwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676619,
+        102191569,
+        1108747727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13558113
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"e56ff44ee48c291d2bafc8d3fdb65140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747727,
+            "locality_id":9895034939,
+            "region_id":85676619
+        }
+    ],
+    "wof:id":9895034939,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Tongch'imi",
+    "wof:parent_id":1108747727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    126.93602,
+    38.30605,
+    126.93602,
+    38.30605
+],
+  "geometry": {"coordinates":[126.93602,38.30605],"type":"Point"}
+}

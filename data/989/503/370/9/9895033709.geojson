@@ -1,0 +1,74 @@
+{
+  "id": 9895033709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"127.52109,39.54988,127.52109,39.54988",
+    "geom:latitude":39.54988,
+    "geom:longitude":127.52109,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12606755: name \"Sambongilgu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12606755"
+        },
+        {
+            "citation":"GeoNames populated place 12606755: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12606755"
+        },
+        {
+            "citation":"GeoNames populated place 12606755: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12606755"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108747795 (Jongphyong), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676629,
+        102191569,
+        1108747795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12606755
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"1998ed6fd96b1b0822933fee6439da1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108747795,
+            "locality_id":9895033709,
+            "region_id":85676629
+        }
+    ],
+    "wof:id":9895033709,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Sambongilgu",
+    "wof:parent_id":1108747795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    127.52109,
+    39.54988,
+    127.52109,
+    39.54988
+],
+  "geometry": {"coordinates":[127.52109,39.54988],"type":"Point"}
+}

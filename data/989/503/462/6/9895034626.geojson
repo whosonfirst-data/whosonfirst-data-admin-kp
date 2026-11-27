@@ -1,0 +1,74 @@
+{
+  "id": 9895034626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"125.93004,40.26654,125.93004,40.26654",
+    "geom:latitude":40.26654,
+    "geom:longitude":125.93004,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13529619: name \"Kwangsan-ma\u016dl\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13529619"
+        },
+        {
+            "citation":"GeoNames populated place 13529619: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13529619"
+        },
+        {
+            "citation":"GeoNames populated place 13529619: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13529619"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748027 (Songwon), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676623,
+        102191569,
+        1108748027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13529619
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"6bb3a43fc205fd680530a69fd6016ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748027,
+            "locality_id":9895034626,
+            "region_id":85676623
+        }
+    ],
+    "wof:id":9895034626,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Kwangsan-ma\u016dl",
+    "wof:parent_id":1108748027,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    125.93004,
+    40.26654,
+    125.93004,
+    40.26654
+],
+  "geometry": {"coordinates":[125.93004,40.26654],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895032850,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"128.91816,42.01286,128.91816,42.01286",
+    "geom:latitude":42.01286,
+    "geom:longitude":128.91816,
+    "iso:country":"KP",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12092969: name \"Samso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12092969"
+        },
+        {
+            "citation":"GeoNames populated place 12092969: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12092969"
+        },
+        {
+            "citation":"GeoNames populated place 12092969: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12092969"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108748045 (Taehongdan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632639,
+        85676641,
+        102191569,
+        1108748045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12092969
+    },
+    "wof:country":"KP",
+    "wof:geomhash":"d69b59fb0673a04ce033bc205264238f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632639,
+            "county_id":1108748045,
+            "locality_id":9895032850,
+            "region_id":85676641
+        }
+    ],
+    "wof:id":9895032850,
+    "wof:lastmodified":1795734963,
+    "wof:name":"Samso",
+    "wof:parent_id":1108748045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-kp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    128.91816,
+    42.01286,
+    128.91816,
+    42.01286
+],
+  "geometry": {"coordinates":[128.91816,42.01286],"type":"Point"}
+}
